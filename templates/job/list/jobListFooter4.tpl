@@ -1,0 +1,2 @@
+{$pagination}
+</div>

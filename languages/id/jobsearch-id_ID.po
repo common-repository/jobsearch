@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamago-DB Job Board 2.2.11\n"
+"POT-Creation-Date: 2024-04-19 15:48+0900\n"
+"PO-Revision-Date: 2024-04-22 20:23+0900\n"
+"Last-Translator: Tamago-DB <info@tamago-db.com>\n"
+"Language-Team: Tamago-DB <info@tamago-db.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: frontEnd/widget/sidebarJobList.php:16
+msgid "list of jobs"
+msgstr "Jenis pekerjaan"
+
+#: helper/translation.php:870
+msgid "Ability"
+msgstr "Tingkat"
+
+#: helper/translation.php:872
+msgid "Add email"
+msgstr "Tambahkan email"
+
+#: helper/translation.php:873
+msgid "Add phone"
+msgstr "Tambahkan nomor telepon"
+
+#: helper/translation.php:874
+msgid "Add language"
+msgstr "Tambahkan bahasa"
+
+#: helper/translation.php:875
+msgid "Add link"
+msgstr "Tambahkan 'link'"
+
+#: helper/translation.php:876
+msgid "Add details"
+msgstr "Tambahkan Kualifikasi yang Lulus"
+
+#: helper/translation.php:877
+msgid "Advanced"
+msgstr "Ketinggian"
+
+#: helper/translation.php:878
+msgid "Address"
+msgstr "Alamat"
+
+#: helper/translation.php:879 helper/translation.php:890
+#: helper/translation.php:1230
+msgid "Apply"
+msgstr "Lamar Sekarang"
+
+#: helper/translation.php:880
+msgid ""
+"An undefined error occurred with the attachment. Please check the attachment "
+"and try again later"
+msgstr ""
+"Terjadi kesalahan pada file terlampir. Silakan periksa lampiran dan coba lagi"
+
+#: helper/translation.php:881
+msgid "An undefined error occurred. Please try again later."
+msgstr "Masalah tak terduga telah terjadi. Silakan coba lagi nanti."
+
+#: helper/translation.php:882
+msgid "Any"
+msgstr "Apa pun"
+
+#: helper/translation.php:883
+msgid "Address Postal"
+msgstr "Alamat"
+
+#: helper/translation.php:885
+msgid "Api key"
+msgstr "Kunci API"
+
+#: helper/translation.php:886
+msgid "Api URL (domain without http protocol)"
+msgstr "Tautan"
+
+#: helper/translation.php:887
+msgid "Apply date"
+msgstr "Tanggal Aplikasi"
+
+#: helper/translation.php:888
+msgid "Visibility fields"
+msgstr "Pengaturan layar aplikasi"
+
+#: helper/translation.php:889
+msgid "Apply Now"
+msgstr "Lamar Sekarang"
+
+#: helper/translation.php:891
+msgid "Apply history"
+msgstr "Riwayat Aplikasi"
+
+#: helper/translation.php:892
+msgid "ASC"
+msgstr "Urutan naik"
+
+#: helper/translation.php:893
+msgid "At the bottom"
+msgstr "Di dasar"
+
+#: helper/translation.php:894
+msgid "At the top"
+msgstr "Di atas"
+
+#: helper/translation.php:895
+msgid "Attachment"
+msgstr "lampiran file"
+
+#: helper/translation.php:897
+msgid "Basis"
+msgstr "Dasar"
+
+#: helper/translation.php:898
+msgid "Add 'And below' for language skill"
+msgstr "Pilih keterampilan bahasa Anda di bawah ini"
+
+#: helper/translation.php:899
+msgid "And lower"
+msgstr "Kurang dari itu"
+
+#: helper/translation.php:900
+msgid "Benefits"
+msgstr "paket manfaat"
+
+#: helper/translation.php:901
+msgid "Birthdate"
+msgstr "Tanggal lahir"
+
+#: helper/translation.php:902
+msgid "button"
+msgstr "Tombol"
+
+#: helper/translation.php:903
+msgid "Submit background color"
+msgstr "Tombol yang menentukan warna latar belakang"
+
+#: helper/translation.php:904
+msgid "Submit font color"
+msgstr "Tombol yang menentukan warna font"
+
+#: helper/translation.php:905
+msgid "More background color"
+msgstr "Warna latar belakang lainnya"
+
+#: helper/translation.php:906
+msgid "More font color"
+msgstr "Warna font lainnya"
+
+#: helper/translation.php:908
+msgid "Category"
+msgstr "Pekerjaan"
+
+#: helper/translation.php:909
+msgid "Displayed / excluded categories"
+msgstr "Tampilan pekerjaan"
+
+#: helper/translation.php:910
+msgid "Displayed"
+msgstr "Format tampilan"
+
+#: helper/translation.php:911
+msgid "Excluded"
+msgstr "Pengecualian"
+
+#: helper/translation.php:912
+msgid "Invalid captcha"
+msgstr "Masukan CAPTCHA salah"
+
+#: helper/translation.php:913
+msgid "Certification"
+msgstr "Kualifikasi pendidikan"
+
+#: helper/translation.php:914
+msgid "Language Certification"
+msgstr "Kualifikasi bahasa"
+
+#: helper/translation.php:915
+msgid "Certification text"
+msgstr "Kualifikasi pendidikan"
+
+#: helper/translation.php:916
+msgid "Certifications"
+msgstr "️Keterampilan dan latar belakang/kualifikasi pendidikan"
+
+#: helper/translation.php:917
+msgid "Certification score"
+msgstr "Nilai ujian kualifikasi"
+
+#: helper/translation.php:918
+msgid "Certifications scores"
+msgstr "nilai ujian kualifikasi"
+
+#: helper/translation.php:919
+msgid "Check all"
+msgstr "Periksa semua"
+
+#: helper/translation.php:920
+msgid ""
+"Choose the first option who will be shown on the list (Currency and basis "
+"for search, Certification for apply)"
+msgstr "Pilih opsi pertama yang akan ditampilkan dalam daftar"
+
+#: helper/translation.php:921
+msgid "Choose which field have to be visible on the apply form"
+msgstr "Pilih item yang akan ditampilkan pada formulir aplikasi"
+
+#: helper/translation.php:922
+msgid "Choose which field have to be mandatory on the apply form"
+msgstr "Pilih item yang diperlukan dalam formulir aplikasi"
+
+#: helper/translation.php:923
+msgid "Mandatory fields"
+msgstr "Bidang wajib"
+
+#: helper/translation.php:924
+msgid "Choose a work place"
+msgstr "Memilih tempat kerja"
+
+#: helper/translation.php:925
+msgid "Choose which elements have to be visible on the detail page"
+msgstr "Pilih item untuk ditampilkan di halaman detail pekerjaan"
+
+#: helper/translation.php:926
+msgid "City"
+msgstr "Kota"
+
+#: helper/translation.php:927
+msgid "Resize column"
+msgstr "Ubah ukuran kolom"
+
+#: helper/translation.php:928
+msgid "change the colsize for the register form"
+msgstr "Ubah ukuran kolom untuk formulir pendaftaran"
+
+#: helper/translation.php:929
+msgid "company.tamago-db.com"
+msgstr "perusahaan.tamago-db.com"
+
+#: helper/translation.php:930
+msgid "Condition"
+msgstr "Kondisi"
+
+#: helper/translation.php:931
+msgid "Contact Details"
+msgstr "Kontak informasi"
+
+#: helper/translation.php:932
+msgid "Country"
+msgstr "Negara"
+
+#: helper/translation.php:933
+msgid ""
+"Country visa(set up by default a country for the visa if the candidate "
+"didn't choose one)"
+msgstr ""
+"Visa negara (diatur secara default negara untuk visa jika kandidat tidak "
+"memilih salah satu)didn't choose one)"
+
+#: helper/translation.php:934
+msgid "Currencies"
+msgstr "Mata uang"
+
+#: helper/translation.php:935
+msgid "Current salary"
+msgstr "Gaji saat ini"
+
+#: helper/translation.php:936
+msgid "current currency"
+msgstr "Mata uang gaji"
+
+#: helper/translation.php:937
+msgid "current basis"
+msgstr ""
+"Gunakan 1 Kriteria / (Gunakan hanya 1 Kriteria di form pencarian, Tahunan, "
+"Bulanan, Harian)"
+
+#: helper/translation.php:938
+msgid "Bonus salary"
+msgstr "Gaji bonus"
+
+#: helper/translation.php:939
+msgid "Bonus currency"
+msgstr ""
+"Gunakan satu mata uang / (gunakan hanya satu mata uang dalam formulir "
+"pencarian, Yen atau Euro)"
+
+#: helper/translation.php:940
+msgid "bonus basis"
+msgstr ""
+"Gunakan 1 Kriteria / (Gunakan hanya 1 Kriteria di form pencarian, Tahunan, "
+"Bulanan, Harian)"
+
+#: helper/translation.php:942
+msgid "CC"
+msgstr "CC"
+
+#: helper/translation.php:943
+msgid "Bcc"
+msgstr "BCC"
+
+#: helper/translation.php:944
+msgid "Currency"
+msgstr "Mata uang"
+
+#: helper/translation.php:945
+msgid "Customize design"
+msgstr "Sesuaikan desain Anda"
+
+#: helper/translation.php:946
+msgid "Use customize folder"
+msgstr "Gunakan folder khusus"
+
+#: helper/translation.php:947 helper/translation.php:983
+msgid "Current company"
+msgstr "Perusahaan saat ini"
+
+#: helper/translation.php:948 helper/translation.php:985
+msgid "Current department"
+msgstr "Departemen saat ini"
+
+#: helper/translation.php:949 helper/translation.php:984
+msgid "Current position"
+msgstr "Posisi saat ini"
+
+#: helper/translation.php:951
+msgid "Data sended"
+msgstr "Data terkirim"
+
+#: helper/translation.php:952
+msgid "Date"
+msgstr "Tanggal"
+
+#: helper/translation.php:953
+msgid "Day"
+msgstr "Hari"
+
+#: helper/translation.php:954
+msgid "Default"
+msgstr "Bawaan"
+
+#: helper/translation.php:955
+msgid "DESC"
+msgstr "Urutan naik"
+
+#: helper/translation.php:956
+msgid "del phone"
+msgstr "Tambahkan nomor telepon"
+
+#: helper/translation.php:957
+msgid "del email"
+msgstr "Tambahkan email"
+
+#: helper/translation.php:958
+msgid "Description"
+msgstr "Informasi Pekerjaan"
+
+#: helper/translation.php:959
+msgid "Use default image"
+msgstr "Gunakan gambar default"
+
+#: helper/translation.php:960
+msgid "Upload default image"
+msgstr "Unggah gambar default"
+
+#: helper/translation.php:961
+msgid "Description cleaned (strip 'p' tag and 'ul' tag)"
+msgstr "Deskripsi dibersihkan (strip tag 'p' dan tag 'ul')"
+
+#: helper/translation.php:962
+msgid "Desired employment"
+msgstr "Pekerjaan yang diinginkan"
+
+#: helper/translation.php:963
+msgid "Desired employment types"
+msgstr "Jenis pekerjaan yang diinginkan"
+
+#: helper/translation.php:964
+msgid "Desired wage"
+msgstr "Gaji yang diharapkan"
+
+#: helper/translation.php:965
+msgid "Desired job industry"
+msgstr "Jenis industri"
+
+#: helper/translation.php:966
+msgid "Desired location"
+msgstr "Tempat kerja"
+
+#: helper/translation.php:967
+msgid "Desired job category"
+msgstr "Tempat kerja"
+
+#: helper/translation.php:968
+msgid "Display type"
+msgstr "Tipe tampilan"
+
+#: helper/translation.php:969
+msgid "Display category"
+msgstr "Kategori tampilan"
+
+#: helper/translation.php:970
+msgid "Display fields"
+msgstr "Tampilkan bidang"
+
+#: helper/translation.php:971
+msgid "Display tag group"
+msgstr "Tampilkan grup tag"
+
+#: helper/translation.php:972
+msgid "Display"
+msgstr "Tipe tampilan"
+
+#: helper/translation.php:973
+msgid "Display industry"
+msgstr "Pilih jenis industri"
+
+#: helper/translation.php:974
+msgid "Download json"
+msgstr "Unduh jso"
+
+#: helper/translation.php:976
+msgid "Education"
+msgstr "Tingkat Pendidikan"
+
+#: helper/translation.php:977
+msgid "Education level"
+msgstr "Tingkat pendidikan yang dibutuhkan"
+
+#: helper/translation.php:978 helper/translation.php:1233
+msgid "Email"
+msgstr "Email"
+
+#: helper/translation.php:979
+msgid "Emails template"
+msgstr "Template Email"
+
+#: helper/translation.php:980
+msgid "From, Subject and Content are mandatory to send an email!"
+msgstr "Dari, Subjek dan Konten wajib mengirim email!"
+
+#: helper/translation.php:981
+msgid "Emails"
+msgstr "Email"
+
+#: helper/translation.php:982
+msgid "Employment"
+msgstr "Riwayat pekerjaan"
+
+#: helper/translation.php:986
+msgid ""
+"Error message - 'There has been an error with your application. Please check "
+"and try again later."
+msgstr ""
+"Terjadi galat tak terduga dalam formulir permintaan. Silakan mendaftar lagi "
+"setelah mengonfirmasi"
+
+#: helper/translation.php:987
+msgid "Employement type"
+msgstr "Bentuk pekerjaan"
+
+#: helper/translation.php:988
+msgid "Established years"
+msgstr "Mapan"
+
+#: helper/translation.php:989
+msgid "Extended"
+msgstr "Apartemen, nama gedung, dll."
+
+#: helper/translation.php:990
+msgid "Extra"
+msgstr "Tambahan"
+
+#: helper/translation.php:991
+msgid "The uploaded file should be an image"
+msgstr "File yang diunggah harus berupa gambar"
+
+#: helper/translation.php:992
+msgid "The uploaded file should be lower than"
+msgstr "File yang diunggah harus lebih rendah dari itu"
+
+#: helper/translation.php:994
+msgid "Facebook"
+msgstr "Facebook"
+
+#: helper/translation.php:995
+msgid "From"
+msgstr "Dari"
+
+#: helper/translation.php:996
+msgid "Family Name"
+msgstr "Nama keluarga(Last name)"
+
+#: helper/translation.php:997
+msgid "Suggested country"
+msgstr "Negara yang disarankan"
+
+#: helper/translation.php:998
+msgid "Suggested languages"
+msgstr "Bahasa yang disarankan"
+
+#: helper/translation.php:999
+msgid "F"
+msgstr "Wanita"
+
+#: helper/translation.php:1000
+msgid "Fetch latest labels and translations"
+msgstr "Ambil label dan terjemahan terbaru"
+
+#: helper/translation.php:1001
+msgid "Featured"
+msgstr "Unggulan"
+
+#: helper/translation.php:1002
+msgid "Featured jobs"
+msgstr "Pekerjaan unggulan"
+
+#: helper/translation.php:1003
+msgid "Files"
+msgstr "Mengajukan"
+
+#: helper/translation.php:1004
+msgid "First"
+msgstr "Menuju awal"
+
+#: helper/translation.php:1005
+msgid "Please upload your resume"
+msgstr ""
+"←※Jika Anda memiliki resume atau riwayat pekerjaan, silakan unggah. Jika "
+"tidak, itu tidak perlu."
+
+#: helper/translation.php:1006
+msgid "found"
+msgstr "Ditemukan"
+
+#: helper/translation.php:1007
+msgid "Submit position"
+msgstr "️Terapkan"
+
+#: helper/translation.php:1009
+msgid "Gender"
+msgstr "️Jenis kelamin"
+
+#: helper/translation.php:1010
+msgid "Given name"
+msgstr "Nama(Nama depan)"
+
+#: helper/translation.php:1012 helper/translation.php:1013
+msgid "Hide salary"
+msgstr ""
+"Sembunyikan Pencarian Gaji/（Sembunyikan bidang gaji di formulir pencarian）"
+
+#: helper/translation.php:1014
+msgid "Hide basis"
+msgstr "Metode pembayaran gaji"
+
+#: helper/translation.php:1015
+msgid "Hide currency"
+msgstr "Mata uang gaji"
+
+#: helper/translation.php:1016
+msgid "Hide max wage"
+msgstr "Gaji terbaik"
+
+#: helper/translation.php:1017
+msgid "Hide min wage"
+msgstr "Gaji terendah"
+
+#: helper/translation.php:1018
+msgid "Hide language"
+msgstr "️Bahasa tambahan"
+
+#: helper/translation.php:1019
+msgid "Hide add language button"
+msgstr "️Bahasa tambahan"
+
+#: helper/translation.php:1020
+msgid "Hide form"
+msgstr "Sembunyikan formulir pencarian"
+
+#: helper/translation.php:1021
+msgid "Hide search field"
+msgstr "Sembunyikan formulir pencarian"
+
+#: helper/translation.php:1022
+msgid "Hide reset button"
+msgstr "Tombol terapkan"
+
+#: helper/translation.php:1023
+msgid "Hide location"
+msgstr "Lokasi kerja yang diinginkan"
+
+#: helper/translation.php:1024
+msgid "Holiday"
+msgstr "Liburan/Liburan"
+
+#: helper/translation.php:1025
+msgid "home"
+msgstr "Individu"
+
+#: helper/translation.php:1026
+msgid "home mobile"
+msgstr "Ponsel pribadi"
+
+#: helper/translation.php:1027
+msgid "home other"
+msgstr "Rumah lainnya"
+
+#: helper/translation.php:1029
+msgid "Id"
+msgstr "Id"
+
+#: helper/translation.php:1030
+msgid "API ID"
+msgstr "API ID"
+
+#: helper/translation.php:1031
+msgid "Job ID"
+msgstr "Job ID"
+
+#: helper/translation.php:1032
+msgid "Industry"
+msgstr "Jenis industri"
+
+#: helper/translation.php:1034
+msgid "JLPT"
+msgstr "JLPT"
+
+#: helper/translation.php:1035
+msgid "job"
+msgstr "job"
+
+#: helper/translation.php:1036
+msgid "jobs"
+msgstr "jobs"
+
+#: helper/translation.php:1037 helper/translation.php:1226
+msgid "Job"
+msgstr "Job"
+
+#: helper/translation.php:1038
+msgid "Job description"
+msgstr "Deskripsi pekerjaan"
+
+#: helper/translation.php:1039
+msgid "Job page"
+msgstr "Halaman pekerjaan"
+
+#: helper/translation.php:1040
+msgid "search page"
+msgstr "Pencarian pekerjaan"
+
+#: helper/translation.php:1041
+msgid "Job requirements"
+msgstr "Persyaratan kualifikasi"
+
+#: helper/translation.php:1042
+msgid "Job information visibilty"
+msgstr "Pengaturan untuk menampilkan informasi pekerjaan"
+
+#: helper/translation.php:1043
+msgid "Video visibility(only for video template)"
+msgstr "Visibilitas video (hanya untuk template video)"
+
+#: helper/translation.php:1044
+msgid "Number of jobs to show per page"
+msgstr "Jumlah pekerjaan untuk ditampilkan di widget"
+
+#: helper/translation.php:1045
+msgid "Number of job to show in the widget"
+msgstr "Jumlah pekerjaan untuk ditampilkan di widget"
+
+#: helper/translation.php:1046
+msgid "Number of characters to use in the short description"
+msgstr "️jumlah karakter dalam deskripsi singkat"
+
+#: helper/translation.php:1048
+msgid "Keyword"
+msgstr "️Kata kunci"
+
+#: helper/translation.php:1050 helper/translation.php:1051
+msgid "Language"
+msgstr "Bahasa"
+
+#: helper/translation.php:1052
+msgid "Languages"
+msgstr "Bahasa"
+
+#: helper/translation.php:1053
+msgid "Language ability"
+msgstr "Kemampuan berbahasa"
+
+#: helper/translation.php:1054
+msgid "Language certification"
+msgstr "Sertifikasi bahasa"
+
+#: helper/translation.php:1055
+msgid "Language certifications"
+msgstr "Sertifikasi bahasa"
+
+#: helper/translation.php:1056
+msgid "Language certif abili"
+msgstr "Kemampuan sertifikat bahasa"
+
+#: helper/translation.php:1057
+msgid "Language required"
+msgstr "Bahasa yang dibutuhkan"
+
+#: helper/translation.php:1058
+msgid "Last"
+msgstr "sampai akhir"
+
+#: helper/translation.php:1059
+msgid "Latest jobs"
+msgstr "Pekerjaan terbaru"
+
+#: helper/translation.php:1060
+msgid "Level"
+msgstr "Tingkat"
+
+#: helper/translation.php:1061
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: helper/translation.php:1062 helper/translation.php:1225
+msgid "Link"
+msgstr "Link"
+
+#: helper/translation.php:1063
+msgid "Font color"
+msgstr "Warna huruf"
+
+#: helper/translation.php:1064
+msgid "Location"
+msgstr "Tempat kerja"
+
+#: helper/translation.php:1066
+msgid "M"
+msgstr "Pria"
+
+#: helper/translation.php:1067
+msgid "Max wage"
+msgstr "Gaji terbaik"
+
+#: helper/translation.php:1068
+msgid "Message"
+msgstr "Pesan"
+
+#: helper/translation.php:1069
+msgid "Min wage"
+msgstr "Gaji terendah"
+
+#: helper/translation.php:1070
+msgid "mobile"
+msgstr "Telepon selular"
+
+#: helper/translation.php:1071
+msgid "Month"
+msgstr "Bulan"
+
+#: helper/translation.php:1072
+msgid "More information"
+msgstr "Informasi lebih lanjut"
+
+#: helper/translation.php:1074
+msgid "Name"
+msgstr "Nama"
+
+#: helper/translation.php:1075
+msgid "Nationality"
+msgstr "Kebangsaan"
+
+#: helper/translation.php:1076
+msgid "Nearest station"
+msgstr "Stasiun terdekat"
+
+#: helper/translation.php:1077
+msgid "negotiable"
+msgstr "Nego berdasarkan pengalaman"
+
+#: helper/translation.php:1078
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: helper/translation.php:1079
+msgid "No job was found for your search"
+msgstr "Tidak ada pekerjaan yang ditemukan untuk pencarian Anda"
+
+#: helper/translation.php:1080
+msgid "Notice period"
+msgstr "️Berapa lama waktu yang dibutuhkan untuk meninggalkan perusahaan?"
+
+#: helper/translation.php:1082
+msgid "One code per line (iso 639-1, example: \"en\")"
+msgstr "1 kode per baris（Contoh：en）"
+
+#: helper/translation.php:1083
+msgid "One code per line (iso 639-2, example: \"JP\")"
+msgstr "Satu kode per baris（iso 639-2、Contoh： \"JP\"）"
+
+#: helper/translation.php:1084
+msgid "Change order of language"
+msgstr "Ubah urutan bahasa pilihan Anda"
+
+#: helper/translation.php:1085
+msgid "Order of favorite nationality(show on top of the list)"
+msgstr "Urutan kebangsaan favorit (ditampilkan di bagian atas daftar)"
+
+#: helper/translation.php:1086
+msgid "Order of favorite country(show on top of the list)"
+msgstr "Beri peringkat negara lain yang Anda pedulikan"
+
+#: helper/translation.php:1087
+msgid "Order of favorite country others"
+msgstr "Beri peringkat negara lain yang Anda pedulikan"
+
+#: helper/translation.php:1088
+msgid "Other country"
+msgstr "Negara lain"
+
+#: helper/translation.php:1089
+msgid "Other languages"
+msgstr "Bahasa lainnya"
+
+#: helper/translation.php:1090
+msgid "Other"
+msgstr "Yang lain"
+
+#: helper/translation.php:1091
+msgid "other"
+msgstr "Yang lain"
+
+#: helper/translation.php:1093
+msgid "Parameters"
+msgstr "Parameter"
+
+#: helper/translation.php:1094
+msgid "Personal information"
+msgstr "Informasi pribadi"
+
+#: helper/translation.php:1095
+msgid "Pick a color"
+msgstr "Pilih warna"
+
+#: helper/translation.php:1096
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+#: helper/translation.php:1097 helper/translation.php:1252
+msgid "Phone type"
+msgstr "Jenis telepon"
+
+#: helper/translation.php:1098
+msgid "Phone"
+msgstr "Telepon"
+
+#: helper/translation.php:1099
+msgid "Postal code"
+msgstr "Kode Pos"
+
+#: helper/translation.php:1100
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: helper/translation.php:1101
+msgid "Privacy policy"
+msgstr "Kebijakan pribadi"
+
+#: helper/translation.php:1102
+msgid "Privacy policy check"
+msgstr "Pemeriksaan kebijakan privasi"
+
+#: helper/translation.php:1103
+msgid "I have read and agree with the privacy policy"
+msgstr "Saya telah membaca dan setuju dengan kebijakan privasi"
+
+#: helper/translation.php:1104
+msgid "Privacy policy link"
+msgstr "Tautan kebijakan privasi"
+
+#: helper/translation.php:1105
+msgid "Prefered list options"
+msgstr "Opsi daftar pilihan"
+
+#: helper/translation.php:1106
+msgid "ProbationPeriod"
+msgstr "Masa percobaan"
+
+#: helper/translation.php:1107
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: helper/translation.php:1108
+msgid "Push application to Tamago-DB"
+msgstr "Dorong aplikasi ke Tamago-DB"
+
+#: helper/translation.php:1109
+msgid "Application successfully pushed to Tamago-DB"
+msgstr "Aplikasi berhasil didorong ke Tamago-DB"
+
+#: helper/translation.php:1110
+msgid "Are you sure you want to push this application to Tamago-DB?"
+msgstr "Apakah Anda yakin ingin mendorong aplikasi ini ke Tamago-DB?"
+
+#: helper/translation.php:1112
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: helper/translation.php:1113
+msgid "Recaptcha key"
+msgstr "Kunci Recaptcha"
+
+#: helper/translation.php:1114
+msgid "Recaptcha secret"
+msgstr "Rahasia Recaptcha"
+
+#: helper/translation.php:1115
+msgid "please declare your website on the following link to get a key"
+msgstr ""
+"Tolong nyatakan situs web Anda di tautan berikut untuk mendapatkan kunci"
+
+#: helper/translation.php:1116
+msgid "Read more..."
+msgstr "Baca lebih banyak..."
+
+#: helper/translation.php:1117
+msgid "Read privacy policy"
+msgstr "Silakan baca kebijakan privasi kami"
+
+#: helper/translation.php:1118
+msgid "Reason for hiring"
+msgstr "Alasan untuk mempekerjakan"
+
+#: helper/translation.php:1119
+msgid "Reason for hiring details"
+msgstr "Alasan untuk mempekerjakan detail"
+
+#: helper/translation.php:1120
+msgid "Referrer"
+msgstr "Perujuk"
+
+#: helper/translation.php:1121
+msgid "How did you find us?"
+msgstr "Bagaimana Anda menemukan kami?"
+
+#: helper/translation.php:1122
+msgid "Region"
+msgstr "Prefektur"
+
+#: helper/translation.php:1123
+msgid "Register"
+msgstr "Daftar"
+
+#: helper/translation.php:1124
+msgid "Remove"
+msgstr "Menghapus"
+
+#: helper/translation.php:1125
+msgid "Reset"
+msgstr "Mengatur ulang"
+
+#: helper/translation.php:1126
+msgid "results"
+msgstr "hasil ditemukan"
+
+#: helper/translation.php:1127
+msgid "Resume"
+msgstr "Curriculum Vitae(CV)/riwayat kerja"
+
+#: helper/translation.php:1128
+msgid "Required language"
+msgstr "Bahasa yang diperlukan"
+
+#: helper/translation.php:1130 helper/translation.php:1264
+msgid "Visa"
+msgstr "Visa"
+
+#: helper/translation.php:1131
+msgid "Requirements"
+msgstr "Kondisi aplikasi"
+
+#: helper/translation.php:1132
+msgid "Return to search"
+msgstr "Kembali ke pencarian"
+
+#: helper/translation.php:1133
+msgid "Return to Job Details"
+msgstr "Kembali ke Detail Pekerjaan"
+
+#: helper/translation.php:1134
+msgid "Reverse language skill"
+msgstr "Keterampilan bahasa terbalik"
+
+#: helper/translation.php:1135
+msgid "Rewrite url"
+msgstr "Tulis ulang url"
+
+#: helper/translation.php:1137
+msgid "Salary"
+msgstr "Gaji"
+
+#: helper/translation.php:1138
+msgid "Max salary"
+msgstr "Gunakan gaji maksimal"
+
+#: helper/translation.php:1139 helper/translation.php:1228
+msgid "Search"
+msgstr "Cari"
+
+#: helper/translation.php:1140
+msgid "Languages to show"
+msgstr "Bahasa untuk ditampilkan"
+
+#: helper/translation.php:1141
+msgid "Search jobs"
+msgstr "Cari pekerjaan"
+
+#: helper/translation.php:1142
+msgid "Level or score"
+msgstr "tingkat atau skor"
+
+#: helper/translation.php:1143
+msgid "Search results"
+msgstr "Hasil Pencarian"
+
+#: helper/translation.php:1144
+msgid "Search field is multiple type"
+msgstr "Bidang pencarian adalah beberapa jenis"
+
+#: helper/translation.php:1145
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: helper/translation.php:1146 helper/translation.php:1232
+msgid "Shortcode"
+msgstr "Post code"
+
+#: helper/translation.php:1147
+msgid "Selling points"
+msgstr "Titik penjualan"
+
+#: helper/translation.php:1148
+msgid "Select type"
+msgstr "Pilih Jenis Pekerjaan"
+
+#: helper/translation.php:1149
+msgid "Select industry"
+msgstr "Pilih industri"
+
+#: helper/translation.php:1150
+msgid "Select tag"
+msgstr "Pilih tag"
+
+#: helper/translation.php:1151
+msgid ""
+"To select multiple fields, 'Ctrl+Click' for Windows and 'Command+Click' for "
+"Mac."
+msgstr ""
+"Untuk beberapa pilihan, \"Ctrl + Klik\" untuk Windows, \"Command + Klik\" "
+"untuk Mac"
+
+#: helper/translation.php:1152
+msgid "Skills and Certification"
+msgstr "Keterampilan dan Sertifikasi"
+
+#: helper/translation.php:1153
+msgid "Skills and Certifications"
+msgstr "Keterampilan dan Sertifikasi"
+
+#: helper/translation.php:1154
+msgid "Social media"
+msgstr "Media sosial"
+
+#: helper/translation.php:1155
+msgid "Sort by"
+msgstr "Sortir dengan"
+
+#: helper/translation.php:1156
+msgid "Source"
+msgstr "Media/Sumber Informasi"
+
+#: helper/translation.php:1157
+msgid "Source type"
+msgstr "Media/Sumber Informasi"
+
+#: helper/translation.php:1158
+msgid "Social sharing"
+msgstr "berbagi sosial"
+
+#: helper/translation.php:1159
+msgid "Status"
+msgstr "Status"
+
+#: helper/translation.php:1160
+msgid "Status of Residence"
+msgstr "Status Tempat Tinggal"
+
+#: helper/translation.php:1161
+msgid "Street"
+msgstr "Jalan"
+
+#: helper/translation.php:1162
+msgid "Submit"
+msgstr "Daftar"
+
+#: helper/translation.php:1163
+msgid "Subject"
+msgstr "Subjek"
+
+#: helper/translation.php:1164
+msgid "Summary"
+msgstr "Ringkasan"
+
+#: helper/translation.php:1165
+msgid "Use max salary"
+msgstr "Gunakan gaji maksimal"
+
+#: helper/translation.php:1166
+msgid "List of shortcode"
+msgstr "Daftar kode pendek"
+
+#: helper/translation.php:1167
+msgid "[job-url]<br/>[given-name]<br/>[family-name]"
+msgstr "[job-url]<br/>[given-name]<br/>[family-name]"
+
+#: helper/translation.php:1168
+msgid ""
+"<h4>[jobsearch_form] - [tdb_job_board_form] / Include search and list</h4> \n"
+"            <p>Parameters: \n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>searchHidden: set to true to hide the search form on "
+"the result page\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply] - [tdb_job_board_apply] / Apply for "
+"candidate</h4> \n"
+"            <p>Parameters:\n"
+"                <br/>redirect-link:  redirect to a different page after "
+"submitting the registration form \n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_last_job] - [tdb_job_board_last_job] / Widget who "
+"shown latest published jobs</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_category] - [tdb_job_board_category] / Widget who "
+"shown some specific jobs on category from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_tag] - [tdb_job_board_tag] / Widget who shown "
+"some specific jobs on tag from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>tag: tag ID\n"
+"                <br/>title: widget title\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[tdb_search_form] / Search form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[tdb_list_form] / List form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>featured: true or false to add featured job.\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>urllist: pages you need to redirect to go to the "
+"detail\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_featured] - [tdb_job_board_featured] / List "
+"featured jobs from a given Company ID</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply_btn] - [tdb_job_board_apply_btn] / Create a "
+"button who redirect to the apply pages and get the current page title</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter to go to the apply/register "
+"page\n"
+"            </p>\n"
+"            <h4>[jobsearch_detail] - [tdb_jb_detail] / Job detail pages</"
+"h4>\n"
+"            "
+msgstr ""
+
+#: helper/translation.php:1227
+msgid "Design"
+msgstr "Rancanga"
+
+#: helper/translation.php:1229
+msgid "Detail"
+msgstr "Detail"
+
+#: helper/translation.php:1231 helper/translation.php:1279
+msgid "Widget"
+msgstr "Widget"
+
+#: helper/translation.php:1234
+msgid "Tag group"
+msgstr "Grup tag"
+
+#: helper/translation.php:1235
+msgid "Tag job title"
+msgstr "Judul pekerjaan tag"
+
+#: helper/translation.php:1236
+msgid "Tags"
+msgstr "Tag"
+
+#: helper/translation.php:1237
+msgid "TDB"
+msgstr "Tamago-DB"
+
+#: helper/translation.php:1238
+msgid "TDB Job board"
+msgstr "Papan Pekerjaan Tamago-DB"
+
+#: helper/translation.php:1239
+msgid "Template"
+msgstr "Templat"
+
+#: helper/translation.php:1240
+msgid "Enable application for confirmation email"
+msgstr "Aktifkan aplikasi untuk email konfirmasi"
+
+#: helper/translation.php:1241
+msgid "Template applicant"
+msgstr "Pemohon template"
+
+#: helper/translation.php:1242
+msgid "Template to be used"
+msgstr "Template yang akan digunakan"
+
+#: helper/translation.php:1243
+msgid "Thank you for your application. Your application has been sent."
+msgstr "Terima kasih atas aplikasi Anda. Aplikasi Anda telah dikirim."
+
+#: helper/translation.php:1244
+msgid "Thank you. Your attachment has been sent."
+msgstr "Lampiran Anda telah berhasil dikirim."
+
+#: helper/translation.php:1245
+msgid "TOEIC"
+msgstr "TOEIC"
+
+#: helper/translation.php:1246
+msgid "TOEFL"
+msgstr "TOEFL"
+
+#: helper/translation.php:1247
+msgid "Title"
+msgstr "Judul"
+
+#: helper/translation.php:1248
+msgid "Type"
+msgstr "Tipe"
+
+#: helper/translation.php:1249
+msgid "Type of Source"
+msgstr "Media/sumber informasi (detail)"
+
+#: helper/translation.php:1250
+msgid "Employement type detail"
+msgstr "Jenis Pekerjaan"
+
+#: helper/translation.php:1251
+msgid "Email type"
+msgstr "Detail"
+
+#: helper/translation.php:1254
+msgid "Url (personal website)"
+msgstr "URL"
+
+#: helper/translation.php:1255
+msgid "redirect Url to apply form"
+msgstr ""
+
+#: helper/translation.php:1256
+msgid "Update API"
+msgstr "APIを更新"
+
+#: helper/translation.php:1257
+msgid "Upload image"
+msgstr "Redirect Url untuk menerapkan formulir"
+
+#: helper/translation.php:1258
+msgid "Update api"
+msgstr "Perbarui api"
+
+#: helper/translation.php:1259
+msgid "Update translation"
+msgstr "Perbarui terjemahan"
+
+#: helper/translation.php:1260
+msgid "Use one basis"
+msgstr ""
+"Gunakan satu dasar/（Gunakan hanya satu kriteria dalam formulir pencarian, "
+"tahunan, bulanan, harian）"
+
+#: helper/translation.php:1261
+msgid "Use one currency"
+msgstr ""
+"Gunakan satu mata uang/（Formulir pencarian hanya menggunakan satu mata "
+"uang, Yen atau Euro）"
+
+#: helper/translation.php:1262
+msgid "Upload logo for social sharing"
+msgstr "Unggah logo untuk berbagi sosial"
+
+#: helper/translation.php:1265
+msgid "Visas"
+msgstr "Visa"
+
+#: helper/translation.php:1266
+msgid "Country of issue"
+msgstr "Negara penerbit visa"
+
+#: helper/translation.php:1267
+msgid "Visa type"
+msgstr "Jenis visa"
+
+#: helper/translation.php:1268
+msgid "Video"
+msgstr "Video"
+
+#: helper/translation.php:1269
+msgid "For templates using video"
+msgstr "Untuk template menggunakan video"
+
+#: helper/translation.php:1270
+msgid "Show the video"
+msgstr "Tampilkan videonya"
+
+#: helper/translation.php:1272
+msgid "Max wage amount"
+msgstr "Jumlah upah maksimum"
+
+#: helper/translation.php:1273
+msgid "Wage amount"
+msgstr "Jumlah upah"
+
+#: helper/translation.php:1274
+msgid "Wage basis"
+msgstr "dasar upah"
+
+#: helper/translation.php:1275
+msgid "Max wage basis"
+msgstr "Dasar upah maksimum"
+
+#: helper/translation.php:1276
+msgid "Wage currency"
+msgstr "Mata uang upah"
+
+#: helper/translation.php:1277
+msgid "Max wage currency"
+msgstr "Mata uang upah maksimum"
+
+#: helper/translation.php:1278
+msgid "Wage detail"
+msgstr "Rincian upah"
+
+#: helper/translation.php:1280
+msgid "Widget : Maximum date to show published jobs"
+msgstr ""
+"Widget : Tanggal maksimum untuk menampilkan pekerjaan yang dipublikasikan"
+
+#: helper/translation.php:1281
+msgid "Widget : Category to filter"
+msgstr "Widget: Kategori untuk difilter"
+
+#: helper/translation.php:1282
+msgid "Wage negotiable"
+msgstr "Nego berdasarkan pengalaman"
+
+#: helper/translation.php:1283
+msgid "wordpress ID"
+msgstr "ID wordpress"
+
+#: helper/translation.php:1284
+msgid "Working hours"
+msgstr "Jam kerja"
+
+#: helper/translation.php:1285
+msgid "work mobile"
+msgstr "Ponsel kerja"
+
+#: helper/translation.php:1286
+msgid "work"
+msgstr "Perusahaan"
+
+#: helper/translation.php:1287
+msgid "work other"
+msgstr "Perusahaan lainnya"
+
+#: helper/translation.php:1289
+msgid "Years"
+msgstr "Tahun"
+
+#: helper/translation.php:1290
+msgid "Your application has been sent. "
+msgstr "Aplikasi Anda telah dikirim."
+
+#: helper/translation.php:1291
+msgid "Error "
+msgstr "Error "
+
+#, fuzzy
+#~| msgid "Hide salary"
+#~ msgid "Gaji maks"
+#~ msgstr ""
+#~ "Sembunyikan Pencarian Gaji / (sembunyikan bidang gaji di formulir "
+#~ "pencarian)"

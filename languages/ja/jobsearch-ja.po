@@ -1,0 +1,1449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamago-DB Job Board 2.2.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jobsearch\n"
+"POT-Creation-Date: 2024-04-22T10:35:07+09:00\n"
+"PO-Revision-Date: 2024-04-22 20:18+0900\n"
+"Last-Translator: Tamago-DB <info@tamago-db.com>\n"
+"Language-Team: Tamago-DB <info@tamago-db.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Plugin Name of the plugin
+msgid "Tamago-DB Job Board"
+msgstr "Tamago-DB求人連携"
+
+#. Description of the plugin
+msgid "Job board integrated with the ATS/CRM Tamago-DB"
+msgstr "求職者管理システム Tamago-DBとの求人連携"
+
+#. Author of the plugin
+msgid "Tamago-DB"
+msgstr "Tamago-DB"
+
+#: frontEnd/widget/sidebarJobList.php:16
+msgid "list of jobs"
+msgstr "求人一覧"
+
+#: helper/translation.php:870
+msgid "Ability"
+msgstr "レベル"
+
+#: helper/translation.php:872
+msgid "Add email"
+msgstr "Eメールを追加"
+
+#: helper/translation.php:873
+msgid "Add phone"
+msgstr "電話番号を追加"
+
+#: helper/translation.php:874
+msgid "Add language"
+msgstr "言語を追加"
+
+#: helper/translation.php:875
+msgid "Add link"
+msgstr "リンクを追加"
+
+#: helper/translation.php:876
+msgid "Add details"
+msgstr "資格を追加"
+
+#: helper/translation.php:877
+msgid "Advanced"
+msgstr "高度な検索"
+
+#: helper/translation.php:878
+msgid "Address"
+msgstr "住所"
+
+#: helper/translation.php:879 helper/translation.php:890
+#: helper/translation.php:1230
+msgid "Apply"
+msgstr "今すぐ応募"
+
+#: helper/translation.php:880
+msgid ""
+"An undefined error occurred with the attachment. Please check the attachment "
+"and try again later"
+msgstr ""
+"添付ファイルにエラーが発生しました。添付ファイルを確認し、もう一度やり直してください。"
+
+#: helper/translation.php:881
+msgid "An undefined error occurred. Please try again later."
+msgstr "予期せぬ問題が発生しました。後ほど再度お試しください。"
+
+#: helper/translation.php:882
+msgid "Any"
+msgstr "問わない"
+
+#: helper/translation.php:883
+msgid "Address Postal"
+msgstr "住所"
+
+#: helper/translation.php:885
+msgid "Api key"
+msgstr "API キー"
+
+#: helper/translation.php:886
+msgid "Api URL (domain without http protocol)"
+msgstr "Api URL (http プロトコルを除くドメイン) "
+
+#: helper/translation.php:887
+msgid "Apply date"
+msgstr "応募日"
+
+#: helper/translation.php:888
+msgid "Visibility fields"
+msgstr "応募画面の設定"
+
+#: helper/translation.php:889
+msgid "Apply Now"
+msgstr "今すぐ応募"
+
+#: helper/translation.php:891
+msgid "Apply history"
+msgstr "応募履歴"
+
+#: helper/translation.php:892
+msgid "ASC"
+msgstr "昇順"
+
+#: helper/translation.php:893
+msgid "At the bottom"
+msgstr "一番下に行く"
+
+#: helper/translation.php:894
+msgid "At the top"
+msgstr "トップに戻る"
+
+#: helper/translation.php:895
+msgid "Attachment"
+msgstr "添付ファイル"
+
+#: helper/translation.php:897
+msgid "Basis"
+msgstr "支給方式"
+
+#: helper/translation.php:898
+msgid "Add 'And below' for language skill"
+msgstr "言語スキルに「それ以下」を追加"
+
+#: helper/translation.php:899
+msgid "And lower"
+msgstr "それ以下"
+
+#: helper/translation.php:900
+msgid "Benefits"
+msgstr "待遇・福利厚生"
+
+#: helper/translation.php:901
+msgid "Birthdate"
+msgstr "誕生日"
+
+#: helper/translation.php:902
+msgid "button"
+msgstr "ボタン"
+
+#: helper/translation.php:903
+msgid "Submit background color"
+msgstr "背景色を指定するボタン"
+
+#: helper/translation.php:904
+msgid "Submit font color"
+msgstr "フォントの色を指定するボタン"
+
+#: helper/translation.php:905
+msgid "More background color"
+msgstr "背景色を指定するボタン"
+
+#: helper/translation.php:906
+msgid "More font color"
+msgstr "フォントの色"
+
+#: helper/translation.php:908
+msgid "Category"
+msgstr "職種"
+
+#: helper/translation.php:909
+msgid "Displayed / excluded categories"
+msgstr "職種に基づき、求人を含める。または除外する。"
+
+#: helper/translation.php:910
+msgid "Displayed"
+msgstr "表示形式"
+
+#: helper/translation.php:911
+msgid "Excluded"
+msgstr "除外"
+
+#: helper/translation.php:912
+msgid "Invalid captcha"
+msgstr "CAPTCHA の入力が間違っています"
+
+#: helper/translation.php:913
+msgid "Certification"
+msgstr "資格"
+
+#: helper/translation.php:914
+msgid "Language Certification"
+msgstr "言語資格"
+
+#: helper/translation.php:915
+msgid "Certification text"
+msgstr "資格テキスト"
+
+#: helper/translation.php:916
+msgid "Certifications"
+msgstr "資格"
+
+#: helper/translation.php:917
+msgid "Certification score"
+msgstr "資格の得点"
+
+#: helper/translation.php:918
+msgid "Certifications scores"
+msgstr "資格の得点"
+
+#: helper/translation.php:919
+msgid "Check all"
+msgstr "すべてをチェック"
+
+#: helper/translation.php:920
+msgid ""
+"Choose the first option who will be shown on the list (Currency and basis "
+"for search, Certification for apply)"
+msgstr "リストの一番最初に来るオプションを選択"
+
+#: helper/translation.php:921
+msgid "Choose which field have to be visible on the apply form"
+msgstr "応募フォームで表示させる項目を選択"
+
+#: helper/translation.php:922
+msgid "Choose which field have to be mandatory on the apply form"
+msgstr "応募フォームで必須となる項目を選択"
+
+#: helper/translation.php:923
+msgid "Mandatory fields"
+msgstr "必須項目"
+
+#: helper/translation.php:924
+msgid "Choose a work place"
+msgstr "勤務地を選択"
+
+#: helper/translation.php:925
+msgid "Choose which elements have to be visible on the detail page"
+msgstr "求人の詳細ページで表示させる項目を選択"
+
+#: helper/translation.php:926
+msgid "City"
+msgstr "市区町村"
+
+#: helper/translation.php:927
+msgid "Resize column"
+msgstr "列のサイズ変更"
+
+#: helper/translation.php:928
+msgid "change the colsize for the register form"
+msgstr "登録フォームのサイズを変更する"
+
+#: helper/translation.php:929
+msgid "company.tamago-db.com"
+msgstr " company.tamago-db.com "
+
+#: helper/translation.php:930
+msgid "Condition"
+msgstr "条件"
+
+#: helper/translation.php:931
+msgid "Contact Details"
+msgstr "連絡先情報"
+
+#: helper/translation.php:932
+msgid "Country"
+msgstr "国名"
+
+#: helper/translation.php:933
+msgid ""
+"Country visa(set up by default a country for the visa if the candidate "
+"didn't choose one)"
+msgstr "国別ビザ (求職者が国を選択しなかった場合、デフォルトで設定される) "
+
+#: helper/translation.php:934
+msgid "Currencies"
+msgstr "通貨"
+
+#: helper/translation.php:935
+msgid "Current salary"
+msgstr "現在の給与"
+
+#: helper/translation.php:936
+msgid "current currency"
+msgstr "給与の通貨"
+
+#: helper/translation.php:937
+msgid "current basis"
+msgstr ""
+"1つの基準を使用 (検索フォームでは、1つの基準のみを使用、毎年、毎月、毎日) "
+
+#: helper/translation.php:938
+msgid "Bonus salary"
+msgstr "ボーナス給与"
+
+#: helper/translation.php:939
+msgid "Bonus currency"
+msgstr ""
+"1つの通貨を使用 (検索フォームでは、1つの基準のみを使用、毎年、毎月、毎日) "
+
+#: helper/translation.php:940
+msgid "bonus basis"
+msgstr ""
+"1つの基準を使用 (検索フォームでは、1つの基準のみを使用、毎年、毎月、毎日) "
+
+#: helper/translation.php:942
+msgid "CC"
+msgstr "CC"
+
+#: helper/translation.php:943
+msgid "Bcc"
+msgstr "BCC"
+
+#: helper/translation.php:944
+msgid "Currency"
+msgstr "通貨"
+
+#: helper/translation.php:945
+msgid "Customize design"
+msgstr "デザインのカスタマイズ"
+
+#: helper/translation.php:946
+msgid "Use customize folder"
+msgstr "カスタマイズの使用"
+
+#: helper/translation.php:947 helper/translation.php:983
+msgid "Current company"
+msgstr "現在の会社"
+
+#: helper/translation.php:948 helper/translation.php:985
+msgid "Current department"
+msgstr "現在の部署"
+
+#: helper/translation.php:949 helper/translation.php:984
+msgid "Current position"
+msgstr "現在の役職"
+
+#: helper/translation.php:951
+msgid "Data sended"
+msgstr "送信されたデータ"
+
+#: helper/translation.php:952
+msgid "Date"
+msgstr "日付"
+
+#: helper/translation.php:953
+msgid "Day"
+msgstr "日"
+
+#: helper/translation.php:954
+msgid "Default"
+msgstr "デフォルト"
+
+#: helper/translation.php:955
+msgid "DESC"
+msgstr "降順"
+
+#: helper/translation.php:956
+msgid "del phone"
+msgstr "電話番号を追加"
+
+#: helper/translation.php:957
+msgid "del email"
+msgstr "Eメールを追加"
+
+#: helper/translation.php:958
+msgid "Description"
+msgstr "求人情報"
+
+#: helper/translation.php:959
+msgid "Use default image"
+msgstr "デフォルト画像を使用"
+
+#: helper/translation.php:960
+msgid "Upload default image"
+msgstr "デフォルト画像をアップロード"
+
+#: helper/translation.php:961
+msgid "Description cleaned (strip 'p' tag and 'ul' tag)"
+msgstr "説明文のクリーニング (p タグと ul タグを取り除く) "
+
+#: helper/translation.php:962
+msgid "Desired employment"
+msgstr "希望する職業"
+
+#: helper/translation.php:963
+msgid "Desired employment types"
+msgstr "希望の雇用形態"
+
+#: helper/translation.php:964
+msgid "Desired wage"
+msgstr "希望給与"
+
+#: helper/translation.php:965
+msgid "Desired job industry"
+msgstr "希望業種"
+
+#: helper/translation.php:966
+msgid "Desired location"
+msgstr "希望勤務地"
+
+#: helper/translation.php:967
+msgid "Desired job category"
+msgstr "希望職種"
+
+#: helper/translation.php:968
+msgid "Display type"
+msgstr "表示形式"
+
+#: helper/translation.php:969
+msgid "Display category"
+msgstr "職種表示"
+
+#: helper/translation.php:970
+msgid "Display fields"
+msgstr "応募画面の設定"
+
+#: helper/translation.php:971
+msgid "Display tag group"
+msgstr "タググループを表示"
+
+#: helper/translation.php:972
+msgid "Display"
+msgstr "表示形式"
+
+#: helper/translation.php:973
+msgid "Display industry"
+msgstr "業種を表示"
+
+#: helper/translation.php:974
+msgid "Download json"
+msgstr "JSON をダウンロード"
+
+#: helper/translation.php:976
+msgid "Education"
+msgstr "求められる学歴"
+
+#: helper/translation.php:977
+msgid "Education level"
+msgstr "求められる学歴"
+
+#: helper/translation.php:978 helper/translation.php:1233
+msgid "Email"
+msgstr "E メール"
+
+#: helper/translation.php:979
+msgid "Emails template"
+msgstr "E メールの種類"
+
+#: helper/translation.php:980
+msgid "From, Subject and Content are mandatory to send an email!"
+msgstr "メールの送信には From 、件名、メール内容が必須です。"
+
+#: helper/translation.php:981
+msgid "Emails"
+msgstr "E メール"
+
+#: helper/translation.php:982
+msgid "Employment"
+msgstr "職歴"
+
+#: helper/translation.php:986
+msgid ""
+"Error message - 'There has been an error with your application. Please check "
+"and try again later."
+msgstr ""
+"応募書類に予期せぬエラーが発生いたしました。確認後、再度ご応募ください。"
+
+#: helper/translation.php:987
+msgid "Employement type"
+msgstr "雇用形態"
+
+#: helper/translation.php:988
+msgid "Established years"
+msgstr "設立"
+
+#: helper/translation.php:989
+msgid "Extended"
+msgstr "マンション、ビル名など"
+
+#: helper/translation.php:990
+msgid "Extra"
+msgstr "余分な"
+
+#: helper/translation.php:991
+msgid "The uploaded file should be an image"
+msgstr "アップロードするファイルは画像でなければなりません。"
+
+#: helper/translation.php:992
+msgid "The uploaded file should be lower than"
+msgstr "より小さいファイルをアップロードしてください。"
+
+#: helper/translation.php:994
+msgid "Facebook"
+msgstr "Facebook"
+
+#: helper/translation.php:995
+msgid "From"
+msgstr "から"
+
+#: helper/translation.php:996
+msgid "Family Name"
+msgstr "姓 (Last name) "
+
+#: helper/translation.php:997
+msgid "Suggested country"
+msgstr "おすすめの国"
+
+#: helper/translation.php:998
+msgid "Suggested languages"
+msgstr "おすすめの言語"
+
+#: helper/translation.php:999
+msgid "F"
+msgstr "女性"
+
+#: helper/translation.php:1000
+msgid "Fetch latest labels and translations"
+msgstr "最新のラベルと翻訳に更新する"
+
+#: helper/translation.php:1001
+msgid "Featured"
+msgstr "特集"
+
+#: helper/translation.php:1002
+msgid "Featured jobs"
+msgstr "特集求人"
+
+#: helper/translation.php:1003
+msgid "Files"
+msgstr "ファイル"
+
+#: helper/translation.php:1004
+msgid "First"
+msgstr "最初へ"
+
+#: helper/translation.php:1005
+msgid "Please upload your resume"
+msgstr "履歴書・職務経歴書があればアップロードしてください。なければ不要です。"
+
+#: helper/translation.php:1006
+msgid "found"
+msgstr "見つかりました"
+
+#: helper/translation.php:1007
+msgid "Submit position"
+msgstr "応募する"
+
+#: helper/translation.php:1009
+msgid "Gender"
+msgstr "性別"
+
+#: helper/translation.php:1010
+msgid "Given name"
+msgstr "名 (First Name) "
+
+#: helper/translation.php:1012 helper/translation.php:1013
+msgid "Hide salary"
+msgstr "給与検索を非表示にする (検索フォームの給与フィールドを非表示にする) "
+
+#: helper/translation.php:1014
+msgid "Hide basis"
+msgstr "給与の支給方式"
+
+#: helper/translation.php:1015
+msgid "Hide currency"
+msgstr "給与の通貨"
+
+#: helper/translation.php:1016
+msgid "Hide max wage"
+msgstr "最高給与"
+
+#: helper/translation.php:1017
+msgid "Hide min wage"
+msgstr "最小給与"
+
+#: helper/translation.php:1018
+msgid "Hide language"
+msgstr "言語を非表示"
+
+#: helper/translation.php:1019
+msgid "Hide add language button"
+msgstr "言語を追加のボタンを非表示"
+
+#: helper/translation.php:1020
+msgid "Hide form"
+msgstr "検索フォームを非表示"
+
+#: helper/translation.php:1021
+msgid "Hide search field"
+msgstr "検索フォームを非表示"
+
+#: helper/translation.php:1022
+msgid "Hide reset button"
+msgstr "リセットボタンを非表示"
+
+#: helper/translation.php:1023
+msgid "Hide location"
+msgstr "勤務地を非表示"
+
+#: helper/translation.php:1024
+msgid "Holiday"
+msgstr "休日・休暇"
+
+#: helper/translation.php:1025
+msgid "home"
+msgstr "個人"
+
+#: helper/translation.php:1026
+msgid "home mobile"
+msgstr "個人携帯"
+
+#: helper/translation.php:1027
+msgid "home other"
+msgstr "自宅その他"
+
+#: helper/translation.php:1029
+msgid "Id"
+msgstr "Id"
+
+#: helper/translation.php:1030
+msgid "API ID"
+msgstr "API ID"
+
+#: helper/translation.php:1031
+msgid "Job ID"
+msgstr "求人 ID"
+
+#: helper/translation.php:1032
+msgid "Industry"
+msgstr "業種"
+
+#: helper/translation.php:1034
+msgid "JLPT"
+msgstr "JLPT"
+
+#: helper/translation.php:1035
+msgid "job"
+msgstr "求人"
+
+#: helper/translation.php:1036
+msgid "jobs"
+msgstr "求人"
+
+#: helper/translation.php:1037 helper/translation.php:1226
+msgid "Job"
+msgstr "求人"
+
+#: helper/translation.php:1038
+msgid "Job description"
+msgstr "求人概要"
+
+#: helper/translation.php:1039
+msgid "Job page"
+msgstr "求人ページ"
+
+#: helper/translation.php:1040
+msgid "search page"
+msgstr "検索ページ"
+
+#: helper/translation.php:1041
+msgid "Job requirements"
+msgstr "応募資格"
+
+#: helper/translation.php:1042
+msgid "Job information visibilty"
+msgstr "求人の表示設定"
+
+#: helper/translation.php:1043
+msgid "Video visibility(only for video template)"
+msgstr "動画の可視性 (動画テンプレートのみ) "
+
+#: helper/translation.php:1044
+msgid "Number of jobs to show per page"
+msgstr "1ページに表示する求人数"
+
+#: helper/translation.php:1045
+msgid "Number of job to show in the widget"
+msgstr "ウィジェットに表示する求人数"
+
+#: helper/translation.php:1046
+msgid "Number of characters to use in the short description"
+msgstr "短い説明の際の文字数"
+
+#: helper/translation.php:1048
+msgid "Keyword"
+msgstr "キーワード"
+
+#: helper/translation.php:1050 helper/translation.php:1051
+msgid "Language"
+msgstr "言語"
+
+#: helper/translation.php:1052
+msgid "Languages"
+msgstr "言語"
+
+#: helper/translation.php:1053
+msgid "Language ability"
+msgstr "言語スキル"
+
+#: helper/translation.php:1054
+msgid "Language certification"
+msgstr "言語資格"
+
+#: helper/translation.php:1055
+msgid "Language certifications"
+msgstr "言語資格"
+
+#: helper/translation.php:1056
+msgid "Language certif abili"
+msgstr "言語資格"
+
+#: helper/translation.php:1057
+msgid "Language required"
+msgstr "必須言語"
+
+#: helper/translation.php:1058
+msgid "Last"
+msgstr "最後へ"
+
+#: helper/translation.php:1059
+msgid "Latest jobs"
+msgstr "新着求人"
+
+#: helper/translation.php:1060
+msgid "Level"
+msgstr "レベル"
+
+#: helper/translation.php:1061
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: helper/translation.php:1062 helper/translation.php:1225
+msgid "Link"
+msgstr "リンク"
+
+#: helper/translation.php:1063
+msgid "Font color"
+msgstr "フォントの色"
+
+#: helper/translation.php:1064
+msgid "Location"
+msgstr "勤務地"
+
+#: helper/translation.php:1066
+msgid "M"
+msgstr "男性"
+
+#: helper/translation.php:1067
+msgid "Max wage"
+msgstr "最高給与"
+
+#: helper/translation.php:1068
+msgid "Message"
+msgstr "メッセージ"
+
+#: helper/translation.php:1069
+msgid "Min wage"
+msgstr "最小給与"
+
+#: helper/translation.php:1070
+msgid "mobile"
+msgstr "携帯"
+
+#: helper/translation.php:1071
+msgid "Month"
+msgstr "月"
+
+#: helper/translation.php:1072
+msgid "More information"
+msgstr "続きを読む"
+
+#: helper/translation.php:1074
+msgid "Name"
+msgstr "名前"
+
+#: helper/translation.php:1075
+msgid "Nationality"
+msgstr "国籍"
+
+#: helper/translation.php:1076
+msgid "Nearest station"
+msgstr "最寄駅"
+
+#: helper/translation.php:1077
+msgid "negotiable"
+msgstr "経験考慮の上、応相談"
+
+#: helper/translation.php:1078
+msgid "Next"
+msgstr "次へ"
+
+#: helper/translation.php:1079
+msgid "No job was found for your search"
+msgstr "検索に該当する求人が見つかりませんでした"
+
+#: helper/translation.php:1080
+msgid "Notice period"
+msgstr "退職までにかかる期間"
+
+#: helper/translation.php:1082
+msgid "One code per line (iso 639-1, example: \"en\")"
+msgstr "1行に1コード (例：en) "
+
+#: helper/translation.php:1083
+msgid "One code per line (iso 639-2, example: \"JP\")"
+msgstr "1行に1コード (iso 639-2、例： \"JP\") "
+
+#: helper/translation.php:1084
+msgid "Change order of language"
+msgstr "お気に入りの言語の順番"
+
+#: helper/translation.php:1085
+msgid "Order of favorite nationality(show on top of the list)"
+msgstr "好きな国籍の順番 (リストの最上部に表示) "
+
+#: helper/translation.php:1086
+msgid "Order of favorite country(show on top of the list)"
+msgstr "好きな国の順番 (リストの最上部に表示) "
+
+#: helper/translation.php:1087
+msgid "Order of favorite country others"
+msgstr "その他の好きな国の順番"
+
+#: helper/translation.php:1088
+msgid "Other country"
+msgstr "その他の国"
+
+#: helper/translation.php:1089
+msgid "Other languages"
+msgstr "その他の言語"
+
+#: helper/translation.php:1090
+msgid "Other"
+msgstr "その他"
+
+#: helper/translation.php:1091
+msgid "other"
+msgstr "その他"
+
+#: helper/translation.php:1093
+msgid "Parameters"
+msgstr "パラメータ"
+
+#: helper/translation.php:1094
+msgid "Personal information"
+msgstr "個人情報"
+
+#: helper/translation.php:1095
+msgid "Pick a color"
+msgstr "色の選択"
+
+#: helper/translation.php:1096
+msgid "Phone number"
+msgstr "電話番号"
+
+#: helper/translation.php:1097 helper/translation.php:1252
+msgid "Phone type"
+msgstr "電話の種類"
+
+#: helper/translation.php:1098
+msgid "Phone"
+msgstr "電話番号"
+
+#: helper/translation.php:1099
+msgid "Postal code"
+msgstr "郵便番号"
+
+#: helper/translation.php:1100
+msgid "Previous"
+msgstr "前へ"
+
+#: helper/translation.php:1101
+msgid "Privacy policy"
+msgstr "プライバシーポリシー"
+
+#: helper/translation.php:1102
+msgid "Privacy policy check"
+msgstr "プライバシーポリシーのチェックボックス"
+
+#: helper/translation.php:1103
+msgid "I have read and agree with the privacy policy"
+msgstr "プライバシーポリシーに同意する"
+
+#: helper/translation.php:1104
+msgid "Privacy policy link"
+msgstr "プライバシーポリシーのリンク"
+
+#: helper/translation.php:1105
+msgid "Prefered list options"
+msgstr "優先リストのオプション"
+
+#: helper/translation.php:1106
+msgid "ProbationPeriod"
+msgstr "試用期間"
+
+#: helper/translation.php:1107
+msgid "Published"
+msgstr "求人公開日"
+
+#: helper/translation.php:1108
+msgid "Push application to Tamago-DB"
+msgstr "Tamago-DB に応募を送信する"
+
+#: helper/translation.php:1109
+msgid "Application successfully pushed to Tamago-DB"
+msgstr "正常に応募が Tamago-DB に送信されました"
+
+#: helper/translation.php:1110
+msgid "Are you sure you want to push this application to Tamago-DB?"
+msgstr "Tamago-DB に応募を送信しますか？"
+
+#: helper/translation.php:1112
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: helper/translation.php:1113
+msgid "Recaptcha key"
+msgstr "Recaptcha キー"
+
+#: helper/translation.php:1114
+msgid "Recaptcha secret"
+msgstr "Recaptcha api シークレットキー"
+
+#: helper/translation.php:1115
+msgid "please declare your website on the following link to get a key"
+msgstr "キーを取得するには、次のリンクであなたのウェブサイトを宣言してください。"
+
+#: helper/translation.php:1116
+msgid "Read more..."
+msgstr "続きを読む。"
+
+#: helper/translation.php:1117
+msgid "Read privacy policy"
+msgstr "プライバシーポリシーをお読みください。"
+
+#: helper/translation.php:1118
+msgid "Reason for hiring"
+msgstr "募集背景"
+
+#: helper/translation.php:1119
+msgid "Reason for hiring details"
+msgstr "募集背景"
+
+#: helper/translation.php:1120
+msgid "Referrer"
+msgstr "紹介"
+
+#: helper/translation.php:1121
+msgid "How did you find us?"
+msgstr "経路 (どこで知りましたか) "
+
+#: helper/translation.php:1122
+msgid "Region"
+msgstr "都道府県"
+
+#: helper/translation.php:1123
+msgid "Register"
+msgstr "登録"
+
+#: helper/translation.php:1124
+msgid "Remove"
+msgstr "削除"
+
+#: helper/translation.php:1125
+msgid "Reset"
+msgstr "リセット"
+
+#: helper/translation.php:1126
+msgid "results"
+msgstr "件の検索結果"
+
+#: helper/translation.php:1127
+msgid "Resume"
+msgstr "履歴書・職務経歴書"
+
+#: helper/translation.php:1128
+msgid "Required language"
+msgstr "必須言語"
+
+#: helper/translation.php:1130 helper/translation.php:1264
+msgid "Visa"
+msgstr "ビザ"
+
+#: helper/translation.php:1131
+msgid "Requirements"
+msgstr "応募資格"
+
+#: helper/translation.php:1132
+msgid "Return to search"
+msgstr "検索に戻る"
+
+#: helper/translation.php:1133
+msgid "Return to Job Details"
+msgstr "求人詳細に戻る"
+
+#: helper/translation.php:1134
+msgid "Reverse language skill"
+msgstr "必須言語"
+
+#: helper/translation.php:1135
+msgid "Rewrite url"
+msgstr "URLの書き換え"
+
+#: helper/translation.php:1137
+msgid "Salary"
+msgstr "給与"
+
+#: helper/translation.php:1138
+msgid "Max salary"
+msgstr "最高給与 "
+
+#: helper/translation.php:1139 helper/translation.php:1228
+msgid "Search"
+msgstr "検索"
+
+#: helper/translation.php:1140
+msgid "Languages to show"
+msgstr "表示する言語"
+
+#: helper/translation.php:1141
+msgid "Search jobs"
+msgstr "求人を検索する"
+
+#: helper/translation.php:1142
+msgid "Level or score"
+msgstr "レベル又は得点"
+
+#: helper/translation.php:1143
+msgid "Search results"
+msgstr "検索結果"
+
+#: helper/translation.php:1144
+msgid "Search field is multiple type"
+msgstr "検索は複数選択可"
+
+#: helper/translation.php:1145
+msgid "Settings"
+msgstr "設定"
+
+#: helper/translation.php:1146 helper/translation.php:1232
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: helper/translation.php:1147
+msgid "Selling points"
+msgstr "セールスポイント"
+
+#: helper/translation.php:1148
+msgid "Select type"
+msgstr "雇用形態を選択"
+
+#: helper/translation.php:1149
+msgid "Select industry"
+msgstr "業種を選択"
+
+#: helper/translation.php:1150
+msgid "Select tag"
+msgstr "タグを選択"
+
+#: helper/translation.php:1151
+msgid ""
+"To select multiple fields, 'Ctrl+Click' for Windows and 'Command+Click' for "
+"Mac."
+msgstr ""
+"複数選択の場合、Windows の場合は (Ctrl +クリック) 、Macの場合は (コマンド+クリック) "
+
+#: helper/translation.php:1152
+msgid "Skills and Certification"
+msgstr "スキル及び資格"
+
+#: helper/translation.php:1153
+msgid "Skills and Certifications"
+msgstr "スキル及び資格"
+
+#: helper/translation.php:1154
+msgid "Social media"
+msgstr "ソーシャルメディア"
+
+#: helper/translation.php:1155
+msgid "Sort by"
+msgstr "並べ替え"
+
+#: helper/translation.php:1156
+msgid "Source"
+msgstr "媒体・情報源"
+
+#: helper/translation.php:1157
+msgid "Source type"
+msgstr "媒体・情報源"
+
+#: helper/translation.php:1158
+msgid "Social sharing"
+msgstr "ソーシャルメディア"
+
+#: helper/translation.php:1159
+msgid "Status"
+msgstr "状況"
+
+#: helper/translation.php:1160
+msgid "Status of Residence"
+msgstr "在留資格"
+
+#: helper/translation.php:1161
+msgid "Street"
+msgstr "番地"
+
+#: helper/translation.php:1162
+msgid "Submit"
+msgstr "応募する"
+
+#: helper/translation.php:1163
+msgid "Subject"
+msgstr "件名"
+
+#: helper/translation.php:1164
+msgid "Summary"
+msgstr "要約"
+
+#: helper/translation.php:1165
+msgid "Use max salary"
+msgstr "最高給与を検索する"
+
+#: helper/translation.php:1166
+msgid "List of shortcode"
+msgstr "ショートコードのリスト"
+
+#: helper/translation.php:1167
+msgid "[job-url]<br/>[given-name]<br/>[family-name]"
+msgstr "[job-url]<br/>[given-name]<br/>[family-name]"
+
+#: helper/translation.php:1168
+msgid ""
+"<h4>[jobsearch_form] - [tdb_job_board_form] / Include search and list</h4> \n"
+"            <p>Parameters: \n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>searchHidden: set to true to hide the search form on "
+"the result page\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply] - [tdb_job_board_apply] / Apply for "
+"candidate</h4> \n"
+"            <p>Parameters:\n"
+"                <br/>redirect-link:  redirect to a different page after "
+"submitting the registration form \n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_last_job] - [tdb_job_board_last_job] / Widget who "
+"shown latest published jobs</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_category] - [tdb_job_board_category] / Widget who "
+"shown some specific jobs on category from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_tag] - [tdb_job_board_tag] / Widget who shown "
+"some specific jobs on tag from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>tag: tag ID\n"
+"                <br/>title: widget title\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[tdb_search_form] / Search form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[tdb_list_form] / List form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>featured: true or false to add featured job.\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>urllist: pages you need to redirect to go to the "
+"detail\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_featured] - [tdb_job_board_featured] / List "
+"featured jobs from a given Company ID</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>url: add this parameter if you use this shortcode on "
+"another page than the main job list page. The URL should be the URL of the "
+"job list page.\n"
+"                <br/>api: if you set up multiple API links on the admin "
+"panel, you can specify the API ID you want to use (by default it will be the "
+"first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply_btn] - [tdb_job_board_apply_btn] / Create a "
+"button who redirect to the apply pages and get the current page title</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter to go to the apply/register "
+"page\n"
+"            </p>\n"
+"            <h4>[jobsearch_detail] - [tdb_jb_detail] / Job detail pages</"
+"h4>\n"
+"            "
+msgstr ""
+
+#: helper/translation.php:1227
+msgid "Design"
+msgstr "デザイン"
+
+#: helper/translation.php:1229
+msgid "Detail"
+msgstr "詳細"
+
+#: helper/translation.php:1231 helper/translation.php:1279
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: helper/translation.php:1234
+msgid "Tag group"
+msgstr "タググループ"
+
+#: helper/translation.php:1235
+msgid "Tag job title"
+msgstr "HTML タグ"
+
+#: helper/translation.php:1236
+msgid "Tags"
+msgstr "タグ"
+
+#: helper/translation.php:1237
+msgid "TDB"
+msgstr "Tamago-DB"
+
+#: helper/translation.php:1238
+msgid "TDB Job board"
+msgstr "Tamago-DB 求人連携"
+
+#: helper/translation.php:1239
+msgid "Template"
+msgstr "テンプレート"
+
+#: helper/translation.php:1240
+msgid "Enable application for confirmation email"
+msgstr "確認メールの送信を可能にする"
+
+#: helper/translation.php:1241
+msgid "Template applicant"
+msgstr "テンプレート"
+
+#: helper/translation.php:1242
+msgid "Template to be used"
+msgstr "使用するテンプレート"
+
+#: helper/translation.php:1243
+msgid "Thank you for your application. Your application has been sent."
+msgstr "ご応募いただきありがとうございます。応募書類は正常に送信されました。"
+
+#: helper/translation.php:1244
+msgid "Thank you. Your attachment has been sent."
+msgstr "添付書類は正常に送信されました。"
+
+#: helper/translation.php:1245
+msgid "TOEIC"
+msgstr "TOEIC"
+
+#: helper/translation.php:1246
+msgid "TOEFL"
+msgstr "TOEFL"
+
+#: helper/translation.php:1247
+msgid "Title"
+msgstr "タイトル"
+
+#: helper/translation.php:1248
+msgid "Type"
+msgstr "雇用形態"
+
+#: helper/translation.php:1249
+msgid "Type of Source"
+msgstr "媒体・情報源"
+
+#: helper/translation.php:1250
+msgid "Employement type detail"
+msgstr "雇用形態 (詳細) "
+
+#: helper/translation.php:1251
+msgid "Email type"
+msgstr "E メール種類"
+
+#: helper/translation.php:1254
+msgid "Url (personal website)"
+msgstr "URL (個人のウェブサイト) "
+
+#: helper/translation.php:1255
+msgid "redirect Url to apply form"
+msgstr "応募フォームへのリダイレクトURL"
+
+#: helper/translation.php:1256
+msgid "Update API"
+msgstr "API を更新"
+
+#: helper/translation.php:1257
+msgid "Upload image"
+msgstr "画像をアップロード"
+
+#: helper/translation.php:1258
+msgid "Update api"
+msgstr "API を更新"
+
+#: helper/translation.php:1259
+msgid "Update translation"
+msgstr "翻訳を更新"
+
+#: helper/translation.php:1260 helper/translation.php:1261
+msgid "Use one currency"
+msgstr ""
+"1つの通貨を使用 (検索フォームでは、1つの通貨のみを使用、円もしくはユーロ) "
+
+#: helper/translation.php:1262
+msgid "Upload logo for social sharing"
+msgstr "ソーシャル共有用にロゴをアップロード"
+
+#: helper/translation.php:1265
+msgid "Visas"
+msgstr "ビザ"
+
+#: helper/translation.php:1266
+msgid "Country of issue"
+msgstr "ビザ発行国"
+
+#: helper/translation.php:1267
+msgid "Visa type"
+msgstr "ビザの種類"
+
+#: helper/translation.php:1268
+msgid "Video"
+msgstr "ビデオ"
+
+#: helper/translation.php:1269
+msgid "For templates using video"
+msgstr "動画を使用したテンプレート"
+
+#: helper/translation.php:1270
+msgid "Show the video"
+msgstr "動画を表示"
+
+#: helper/translation.php:1272
+msgid "Max wage amount"
+msgstr "最高給与金額"
+
+#: helper/translation.php:1273
+msgid "Wage amount"
+msgstr "給与"
+
+#: helper/translation.php:1274
+msgid "Wage basis"
+msgstr "給与の支給方式"
+
+#: helper/translation.php:1275
+msgid "Max wage basis"
+msgstr "最高給与の支給方式"
+
+#: helper/translation.php:1276
+msgid "Wage currency"
+msgstr "給与の通貨"
+
+#: helper/translation.php:1277
+msgid "Max wage currency"
+msgstr "給与の通貨"
+
+#: helper/translation.php:1278
+msgid "Wage detail"
+msgstr "給与 (詳細) "
+
+#: helper/translation.php:1280
+msgid "Widget : Maximum date to show published jobs"
+msgstr "ウィジェット (過去何日間の最新公開求人の表示するか選択) "
+
+#: helper/translation.php:1281
+msgid "Widget : Category to filter"
+msgstr "ウィジェット (カテゴリーのフィルター) "
+
+#: helper/translation.php:1282
+msgid "Wage negotiable"
+msgstr "経験考慮の上、応相談"
+
+#: helper/translation.php:1283
+msgid "wordpress ID"
+msgstr "ワードプレス ID"
+
+#: helper/translation.php:1284
+msgid "Working hours"
+msgstr "勤務時間"
+
+#: helper/translation.php:1285
+msgid "work mobile"
+msgstr "会社携帯"
+
+#: helper/translation.php:1286
+msgid "work"
+msgstr "会社"
+
+#: helper/translation.php:1287
+msgid "work other"
+msgstr "会社その他"
+
+#: helper/translation.php:1289
+msgid "Years"
+msgstr "年"
+
+#: helper/translation.php:1290
+msgid "Your application has been sent. "
+msgstr "応募書類は正常に送信されました。"
+
+#: helper/translation.php:1291
+msgid "Error "
+msgstr "エラー "

@@ -1,0 +1,1402 @@
+# Copyright (C) 2022 Tamago-DB
+# This file is distributed under the same license as the Tamago-DB Job Board plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tamago-DB Job Board 2.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-job-board\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-15T11:27:47+09:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: jobsearch\n"
+
+#. Plugin Name of the plugin
+msgid "Tamago-DB Job Board"
+msgstr ""
+
+#. Description of the plugin
+msgid "Job board integrated with the ATS/CRM Tamago-DB"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tamago-DB"
+msgstr ""
+
+#: frontEnd/widget/sidebarJobList.php:16
+msgid "List of jobs"
+msgstr ""
+
+#: helper/translation.php:869
+msgid "Ability"
+msgstr ""
+
+#: helper/translation.php:871
+msgid "Add email"
+msgstr ""
+
+#: helper/translation.php:872
+msgid "Add phone"
+msgstr ""
+
+#: helper/translation.php:873
+msgid "Add language"
+msgstr ""
+
+#: helper/translation.php:874
+msgid "Add link"
+msgstr ""
+
+#: helper/translation.php:875
+msgid "Add details"
+msgstr ""
+
+#: helper/translation.php:876
+msgid "Advanced"
+msgstr ""
+
+#: helper/translation.php:877
+msgid "Address"
+msgstr ""
+
+#: helper/translation.php:878
+#: helper/translation.php:889
+#: helper/translation.php:1228
+msgid "Apply"
+msgstr ""
+
+#: helper/translation.php:879
+msgid "An undefined error occurred with the attachment. Please check the attachment and try again later"
+msgstr ""
+
+#: helper/translation.php:880
+msgid "An undefined error occurred. Please try again later."
+msgstr ""
+
+#: helper/translation.php:881
+msgid "Any"
+msgstr ""
+
+#: helper/translation.php:882
+msgid "Address Postal"
+msgstr ""
+
+#: helper/translation.php:884
+msgid "Api key"
+msgstr ""
+
+#: helper/translation.php:885
+msgid "Api URL (domain without http protocol)"
+msgstr ""
+
+#: helper/translation.php:886
+msgid "Apply date"
+msgstr ""
+
+#: helper/translation.php:887
+msgid "Visibility fields"
+msgstr ""
+
+#: helper/translation.php:888
+msgid "Apply Now"
+msgstr ""
+
+#: helper/translation.php:890
+msgid "Apply history"
+msgstr ""
+
+#: helper/translation.php:891
+msgid "ASC"
+msgstr ""
+
+#: helper/translation.php:892
+msgid "At the bottom"
+msgstr ""
+
+#: helper/translation.php:893
+msgid "At the top"
+msgstr ""
+
+#: helper/translation.php:894
+msgid "Attachment"
+msgstr ""
+
+#: helper/translation.php:896
+msgid "Basis"
+msgstr ""
+
+#: helper/translation.php:897
+msgid "Add 'And below' for language skill"
+msgstr ""
+
+#: helper/translation.php:898
+msgid "And lower"
+msgstr ""
+
+#: helper/translation.php:899
+msgid "Benefits"
+msgstr ""
+
+#: helper/translation.php:900
+msgid "Birthdate"
+msgstr ""
+
+#: helper/translation.php:901
+msgid "button"
+msgstr ""
+
+#: helper/translation.php:902
+msgid "Submit background color"
+msgstr ""
+
+#: helper/translation.php:903
+msgid "Submit font color"
+msgstr ""
+
+#: helper/translation.php:904
+msgid "More background color"
+msgstr ""
+
+#: helper/translation.php:905
+msgid "More font color"
+msgstr ""
+
+#: helper/translation.php:907
+msgid "Category"
+msgstr ""
+
+#: helper/translation.php:908
+msgid "Displayed / excluded categories"
+msgstr ""
+
+#: helper/translation.php:909
+msgid "Displayed"
+msgstr ""
+
+#: helper/translation.php:910
+msgid "Excluded"
+msgstr ""
+
+#: helper/translation.php:911
+msgid "Invalid captcha"
+msgstr ""
+
+#: helper/translation.php:912
+msgid "Certification"
+msgstr ""
+
+#: helper/translation.php:913
+msgid "Language Certification"
+msgstr ""
+
+#: helper/translation.php:914
+msgid "Certification text"
+msgstr ""
+
+#: helper/translation.php:915
+msgid "Certifications"
+msgstr ""
+
+#: helper/translation.php:916
+msgid "Certification score"
+msgstr ""
+
+#: helper/translation.php:917
+msgid "Certifications scores"
+msgstr ""
+
+#: helper/translation.php:918
+msgid "Check all"
+msgstr ""
+
+#: helper/translation.php:919
+msgid "Choose the first option who will be shown on the list (Currency and basis for search, Certification for apply)"
+msgstr ""
+
+#: helper/translation.php:920
+msgid "Choose which field have to be visible on the apply form"
+msgstr ""
+
+#: helper/translation.php:921
+msgid "Choose which field have to be mandatory on the apply form"
+msgstr ""
+
+#: helper/translation.php:922
+msgid "Mandatory fields"
+msgstr ""
+
+#: helper/translation.php:923
+msgid "Choose a work place"
+msgstr ""
+
+#: helper/translation.php:924
+msgid "Choose which elements have to be visible on the detail page"
+msgstr ""
+
+#: helper/translation.php:925
+msgid "City"
+msgstr ""
+
+#: helper/translation.php:926
+msgid "Resize column"
+msgstr ""
+
+#: helper/translation.php:927
+msgid "change the colsize for the register form"
+msgstr ""
+
+#: helper/translation.php:928
+msgid "company.tamago-db.com"
+msgstr ""
+
+#: helper/translation.php:929
+msgid "Condition"
+msgstr ""
+
+#: helper/translation.php:930
+msgid "Contact Details"
+msgstr ""
+
+#: helper/translation.php:931
+msgid "Country"
+msgstr ""
+
+#: helper/translation.php:932
+msgid "Country visa(set up by default a country for the visa if the candidate didn't choose one)"
+msgstr ""
+
+#: helper/translation.php:933
+msgid "Currencies"
+msgstr ""
+
+#: helper/translation.php:934
+msgid "Current salary"
+msgstr ""
+
+#: helper/translation.php:935
+msgid "current currency"
+msgstr ""
+
+#: helper/translation.php:936
+msgid "current basis"
+msgstr ""
+
+#: helper/translation.php:937
+msgid "Bonus salary"
+msgstr ""
+
+#: helper/translation.php:938
+msgid "Bonus currency"
+msgstr ""
+
+#: helper/translation.php:939
+msgid "bonus basis"
+msgstr ""
+
+#: helper/translation.php:941
+msgid "CC"
+msgstr ""
+
+#: helper/translation.php:942
+msgid "Bcc"
+msgstr ""
+
+#: helper/translation.php:943
+msgid "Currency"
+msgstr ""
+
+#: helper/translation.php:944
+msgid "Customize design"
+msgstr ""
+
+#: helper/translation.php:945
+msgid "Use customize folder"
+msgstr ""
+
+#: helper/translation.php:946
+#: helper/translation.php:982
+msgid "Current company"
+msgstr ""
+
+#: helper/translation.php:947
+#: helper/translation.php:984
+msgid "Current department"
+msgstr ""
+
+#: helper/translation.php:948
+#: helper/translation.php:983
+msgid "Current position"
+msgstr ""
+
+#: helper/translation.php:950
+msgid "Data sended"
+msgstr ""
+
+#: helper/translation.php:951
+msgid "Date"
+msgstr ""
+
+#: helper/translation.php:952
+msgid "Day"
+msgstr ""
+
+#: helper/translation.php:953
+msgid "Default"
+msgstr ""
+
+#: helper/translation.php:954
+msgid "DESC"
+msgstr ""
+
+#: helper/translation.php:955
+msgid "del phone"
+msgstr ""
+
+#: helper/translation.php:956
+msgid "del email"
+msgstr ""
+
+#: helper/translation.php:957
+msgid "Description"
+msgstr ""
+
+#: helper/translation.php:958
+msgid "Use default image"
+msgstr ""
+
+#: helper/translation.php:959
+msgid "Upload default image"
+msgstr ""
+
+#: helper/translation.php:960
+msgid "Description cleaned (strip 'p' tag and 'ul' tag)"
+msgstr ""
+
+#: helper/translation.php:961
+msgid "Desired employment"
+msgstr ""
+
+#: helper/translation.php:962
+msgid "Desired employment types"
+msgstr ""
+
+#: helper/translation.php:963
+msgid "Desired wage"
+msgstr ""
+
+#: helper/translation.php:964
+msgid "Desired job industry"
+msgstr ""
+
+#: helper/translation.php:965
+msgid "Desired location"
+msgstr ""
+
+#: helper/translation.php:966
+msgid "Desired job category"
+msgstr ""
+
+#: helper/translation.php:967
+msgid "Display type"
+msgstr ""
+
+#: helper/translation.php:968
+msgid "Display category"
+msgstr ""
+
+#: helper/translation.php:969
+msgid "Display fields"
+msgstr ""
+
+#: helper/translation.php:970
+msgid "Display tag group"
+msgstr ""
+
+#: helper/translation.php:971
+msgid "Display"
+msgstr ""
+
+#: helper/translation.php:972
+msgid "Display industry"
+msgstr ""
+
+#: helper/translation.php:973
+msgid "Download json"
+msgstr ""
+
+#: helper/translation.php:975
+msgid "Education"
+msgstr ""
+
+#: helper/translation.php:976
+msgid "Education level"
+msgstr ""
+
+#: helper/translation.php:977
+#: helper/translation.php:1231
+msgid "Email"
+msgstr ""
+
+#: helper/translation.php:978
+msgid "Emails template"
+msgstr ""
+
+#: helper/translation.php:979
+msgid "From, Subject and Content are mandatory to send an email!"
+msgstr ""
+
+#: helper/translation.php:980
+msgid "Emails"
+msgstr ""
+
+#: helper/translation.php:981
+msgid "Employment"
+msgstr ""
+
+#: helper/translation.php:985
+msgid "Error message - 'There has been an error with your application. Please check and try again later."
+msgstr ""
+
+#: helper/translation.php:986
+msgid "Employement type"
+msgstr ""
+
+#: helper/translation.php:987
+msgid "Established years"
+msgstr ""
+
+#: helper/translation.php:988
+msgid "Extended"
+msgstr ""
+
+#: helper/translation.php:989
+msgid "Extra"
+msgstr ""
+
+#: helper/translation.php:990
+msgid "The uploaded file should be an image"
+msgstr ""
+
+#: helper/translation.php:991
+msgid "The uploaded file should be lower than"
+msgstr ""
+
+#: helper/translation.php:993
+msgid "Facebook"
+msgstr ""
+
+#: helper/translation.php:994
+msgid "From"
+msgstr ""
+
+#: helper/translation.php:995
+msgid "Family Name"
+msgstr ""
+
+#: helper/translation.php:996
+msgid "Suggested country"
+msgstr ""
+
+#: helper/translation.php:997
+msgid "Suggested languages"
+msgstr ""
+
+#: helper/translation.php:998
+msgid "F"
+msgstr ""
+
+#: helper/translation.php:999
+msgid "Fetch latest labels and translations"
+msgstr ""
+
+#: helper/translation.php:1000
+msgid "Featured"
+msgstr ""
+
+#: helper/translation.php:1001
+msgid "Featured jobs"
+msgstr ""
+
+#: helper/translation.php:1002
+msgid "Files"
+msgstr ""
+
+#: helper/translation.php:1003
+msgid "First"
+msgstr ""
+
+#: helper/translation.php:1004
+msgid "Please upload your resume"
+msgstr ""
+
+#: helper/translation.php:1005
+msgid "found"
+msgstr ""
+
+#: helper/translation.php:1006
+msgid "Submit position"
+msgstr ""
+
+#: helper/translation.php:1008
+msgid "Gender"
+msgstr ""
+
+#: helper/translation.php:1009
+msgid "Given name"
+msgstr ""
+
+#: helper/translation.php:1011
+#: helper/translation.php:1012
+msgid "Hide salary"
+msgstr ""
+
+#: helper/translation.php:1013
+msgid "Hide basis"
+msgstr ""
+
+#: helper/translation.php:1014
+msgid "Hide currency"
+msgstr ""
+
+#: helper/translation.php:1015
+msgid "Hide max wage"
+msgstr ""
+
+#: helper/translation.php:1016
+msgid "Hide min wage"
+msgstr ""
+
+#: helper/translation.php:1017
+msgid "Hide language"
+msgstr ""
+
+#: helper/translation.php:1018
+msgid "Hide add language button"
+msgstr ""
+
+#: helper/translation.php:1019
+msgid "Hide form"
+msgstr ""
+
+#: helper/translation.php:1020
+msgid "Hide search field"
+msgstr ""
+
+#: helper/translation.php:1021
+msgid "Hide reset button"
+msgstr ""
+
+#: helper/translation.php:1022
+msgid "Hide location"
+msgstr ""
+
+#: helper/translation.php:1023
+msgid "Holiday"
+msgstr ""
+
+#: helper/translation.php:1024
+msgid "home"
+msgstr ""
+
+#: helper/translation.php:1025
+msgid "home mobile"
+msgstr ""
+
+#: helper/translation.php:1026
+msgid "home other"
+msgstr ""
+
+#: helper/translation.php:1028
+msgid "Id"
+msgstr ""
+
+#: helper/translation.php:1029
+msgid "API ID"
+msgstr ""
+
+#: helper/translation.php:1030
+msgid "Job ID"
+msgstr ""
+
+#: helper/translation.php:1031
+msgid "Industry"
+msgstr ""
+
+#: helper/translation.php:1033
+msgid "JLPT"
+msgstr ""
+
+#: helper/translation.php:1034
+msgid "job"
+msgstr ""
+
+#: helper/translation.php:1035
+#: helper/translation.php:1224
+msgid "Job"
+msgstr ""
+
+#: helper/translation.php:1036
+msgid "Job description"
+msgstr ""
+
+#: helper/translation.php:1037
+msgid "Job page"
+msgstr ""
+
+#: helper/translation.php:1038
+msgid "search page"
+msgstr ""
+
+#: helper/translation.php:1039
+msgid "Job requirements"
+msgstr ""
+
+#: helper/translation.php:1040
+msgid "Job information visibilty"
+msgstr ""
+
+#: helper/translation.php:1041
+msgid "Video visibility(only for video template)"
+msgstr ""
+
+#: helper/translation.php:1042
+msgid "Number of jobs to show per page"
+msgstr ""
+
+#: helper/translation.php:1043
+msgid "Number of job to show in the widget"
+msgstr ""
+
+#: helper/translation.php:1044
+msgid "Number of characters to use in the short description"
+msgstr ""
+
+#: helper/translation.php:1046
+msgid "Keyword"
+msgstr ""
+
+#: helper/translation.php:1048
+#: helper/translation.php:1049
+msgid "Language"
+msgstr ""
+
+#: helper/translation.php:1050
+msgid "Languages"
+msgstr ""
+
+#: helper/translation.php:1051
+msgid "Language ability"
+msgstr ""
+
+#: helper/translation.php:1052
+msgid "Language certification"
+msgstr ""
+
+#: helper/translation.php:1053
+msgid "Language certifications"
+msgstr ""
+
+#: helper/translation.php:1054
+msgid "Language certif abili"
+msgstr ""
+
+#: helper/translation.php:1055
+msgid "Language required"
+msgstr ""
+
+#: helper/translation.php:1056
+msgid "Last"
+msgstr ""
+
+#: helper/translation.php:1057
+msgid "Latest jobs"
+msgstr ""
+
+#: helper/translation.php:1058
+msgid "Level"
+msgstr ""
+
+#: helper/translation.php:1059
+msgid "Linkedin"
+msgstr ""
+
+#: helper/translation.php:1060
+#: helper/translation.php:1223
+msgid "Link"
+msgstr ""
+
+#: helper/translation.php:1061
+msgid "Font color"
+msgstr ""
+
+#: helper/translation.php:1062
+msgid "Location"
+msgstr ""
+
+#: helper/translation.php:1064
+msgid "M"
+msgstr ""
+
+#: helper/translation.php:1065
+msgid "Max wage"
+msgstr ""
+
+#: helper/translation.php:1066
+msgid "Message"
+msgstr ""
+
+#: helper/translation.php:1067
+msgid "Min wage"
+msgstr ""
+
+#: helper/translation.php:1068
+msgid "mobile"
+msgstr ""
+
+#: helper/translation.php:1069
+msgid "Month"
+msgstr ""
+
+#: helper/translation.php:1070
+msgid "More information"
+msgstr ""
+
+#: helper/translation.php:1072
+msgid "Name"
+msgstr ""
+
+#: helper/translation.php:1073
+msgid "Nationality"
+msgstr ""
+
+#: helper/translation.php:1074
+msgid "Nearest station"
+msgstr ""
+
+#: helper/translation.php:1075
+msgid "negotiable"
+msgstr ""
+
+#: helper/translation.php:1076
+msgid "Next"
+msgstr ""
+
+#: helper/translation.php:1077
+msgid "No job was found for your search"
+msgstr ""
+
+#: helper/translation.php:1078
+msgid "Notice period"
+msgstr ""
+
+#: helper/translation.php:1080
+msgid "One code per line (iso 639-1, example: \"en\")"
+msgstr ""
+
+#: helper/translation.php:1081
+msgid "One code per line (iso 639-2, example: \"JP\")"
+msgstr ""
+
+#: helper/translation.php:1082
+msgid "Change order of language"
+msgstr ""
+
+#: helper/translation.php:1083
+msgid "Order of favorite nationality(show on top of the list)"
+msgstr ""
+
+#: helper/translation.php:1084
+msgid "Order of favorite country(show on top of the list)"
+msgstr ""
+
+#: helper/translation.php:1085
+msgid "Order of favorite country others"
+msgstr ""
+
+#: helper/translation.php:1086
+msgid "Other country"
+msgstr ""
+
+#: helper/translation.php:1087
+msgid "Other languages"
+msgstr ""
+
+#: helper/translation.php:1088
+msgid "Other"
+msgstr ""
+
+#: helper/translation.php:1089
+msgid "other"
+msgstr ""
+
+#: helper/translation.php:1091
+msgid "Parameters"
+msgstr ""
+
+#: helper/translation.php:1092
+msgid "Personal information"
+msgstr ""
+
+#: helper/translation.php:1093
+msgid "Pick a color"
+msgstr ""
+
+#: helper/translation.php:1094
+msgid "Phone number"
+msgstr ""
+
+#: helper/translation.php:1095
+#: helper/translation.php:1250
+msgid "Phone type"
+msgstr ""
+
+#: helper/translation.php:1096
+msgid "Phone"
+msgstr ""
+
+#: helper/translation.php:1097
+msgid "Postal code"
+msgstr ""
+
+#: helper/translation.php:1098
+msgid "Previous"
+msgstr ""
+
+#: helper/translation.php:1099
+msgid "Privacy policy"
+msgstr ""
+
+#: helper/translation.php:1100
+msgid "Privacy policy check"
+msgstr ""
+
+#: helper/translation.php:1101
+msgid "I have read and agree with the privacy policy"
+msgstr ""
+
+#: helper/translation.php:1102
+msgid "Privacy policy link"
+msgstr ""
+
+#: helper/translation.php:1103
+msgid "Prefered list options"
+msgstr ""
+
+#: helper/translation.php:1104
+msgid "ProbationPeriod"
+msgstr ""
+
+#: helper/translation.php:1105
+msgid "Published"
+msgstr ""
+
+#: helper/translation.php:1106
+msgid "Push application to Tamago-DB"
+msgstr ""
+
+#: helper/translation.php:1107
+msgid "Application successfully pushed to Tamago-DB"
+msgstr ""
+
+#: helper/translation.php:1108
+msgid "Are you sure you want to push this application to Tamago-DB?"
+msgstr ""
+
+#: helper/translation.php:1110
+msgid "Recaptcha"
+msgstr ""
+
+#: helper/translation.php:1111
+msgid "Recaptcha key"
+msgstr ""
+
+#: helper/translation.php:1112
+msgid "Recaptcha secret"
+msgstr ""
+
+#: helper/translation.php:1113
+msgid "please declare your website on the following link to get a key"
+msgstr ""
+
+#: helper/translation.php:1114
+msgid "Read more..."
+msgstr ""
+
+#: helper/translation.php:1115
+msgid "Read privacy policy"
+msgstr ""
+
+#: helper/translation.php:1116
+msgid "Reason for hiring"
+msgstr ""
+
+#: helper/translation.php:1117
+msgid "Reason for hiring details"
+msgstr ""
+
+#: helper/translation.php:1118
+msgid "Referrer"
+msgstr ""
+
+#: helper/translation.php:1119
+msgid "How did you find us?"
+msgstr ""
+
+#: helper/translation.php:1120
+msgid "Region"
+msgstr ""
+
+#: helper/translation.php:1121
+msgid "Register"
+msgstr ""
+
+#: helper/translation.php:1122
+msgid "Remove"
+msgstr ""
+
+#: helper/translation.php:1123
+msgid "Reset"
+msgstr ""
+
+#: helper/translation.php:1124
+msgid "results"
+msgstr ""
+
+#: helper/translation.php:1125
+msgid "Resume"
+msgstr ""
+
+#: helper/translation.php:1126
+msgid "Required language"
+msgstr ""
+
+#: helper/translation.php:1128
+#: helper/translation.php:1262
+msgid "Visa"
+msgstr ""
+
+#: helper/translation.php:1129
+msgid "Requirements"
+msgstr ""
+
+#: helper/translation.php:1130
+msgid "Return to search"
+msgstr ""
+
+#: helper/translation.php:1131
+msgid "Return to Job Details"
+msgstr ""
+
+#: helper/translation.php:1132
+msgid "Reverse language skill"
+msgstr ""
+
+#: helper/translation.php:1133
+msgid "Rewrite url"
+msgstr ""
+
+#: helper/translation.php:1135
+msgid "Salary"
+msgstr ""
+
+#: helper/translation.php:1136
+msgid "Max salary"
+msgstr ""
+
+#: helper/translation.php:1137
+#: helper/translation.php:1226
+msgid "Search"
+msgstr ""
+
+#: helper/translation.php:1138
+msgid "Languages to show"
+msgstr ""
+
+#: helper/translation.php:1139
+msgid "Search jobs"
+msgstr ""
+
+#: helper/translation.php:1140
+msgid "Level or score"
+msgstr ""
+
+#: helper/translation.php:1141
+msgid "Search results"
+msgstr ""
+
+#: helper/translation.php:1142
+msgid "Search field is multiple type"
+msgstr ""
+
+#: helper/translation.php:1143
+msgid "Settings"
+msgstr ""
+
+#: helper/translation.php:1144
+#: helper/translation.php:1230
+msgid "Shortcode"
+msgstr ""
+
+#: helper/translation.php:1145
+msgid "Selling points"
+msgstr ""
+
+#: helper/translation.php:1146
+msgid "Select type"
+msgstr ""
+
+#: helper/translation.php:1147
+msgid "Select industry"
+msgstr ""
+
+#: helper/translation.php:1148
+msgid "Select tag"
+msgstr ""
+
+#: helper/translation.php:1149
+msgid "To select multiple fields, 'Ctrl+Click' for Windows and 'Command+Click' for Mac."
+msgstr ""
+
+#: helper/translation.php:1150
+msgid "Skills and Certification"
+msgstr ""
+
+#: helper/translation.php:1151
+msgid "Skills and Certifications"
+msgstr ""
+
+#: helper/translation.php:1152
+msgid "Social media"
+msgstr ""
+
+#: helper/translation.php:1153
+msgid "Sort by"
+msgstr ""
+
+#: helper/translation.php:1154
+msgid "Source"
+msgstr ""
+
+#: helper/translation.php:1155
+msgid "Source type"
+msgstr ""
+
+#: helper/translation.php:1156
+msgid "Social sharing"
+msgstr ""
+
+#: helper/translation.php:1157
+msgid "Status"
+msgstr ""
+
+#: helper/translation.php:1158
+msgid "Status of Residence"
+msgstr ""
+
+#: helper/translation.php:1159
+msgid "Street"
+msgstr ""
+
+#: helper/translation.php:1160
+msgid "Submit"
+msgstr ""
+
+#: helper/translation.php:1161
+msgid "Subject"
+msgstr ""
+
+#: helper/translation.php:1162
+msgid "Summary"
+msgstr ""
+
+#: helper/translation.php:1163
+msgid "Use max salary"
+msgstr ""
+
+#: helper/translation.php:1164
+msgid "List of shortcode"
+msgstr ""
+
+#: helper/translation.php:1165
+msgid "[job-url]<br/>[given-name]<br/>[family-name]"
+msgstr ""
+
+#: helper/translation.php:1166
+msgid ""
+"<h4>[jobsearch_form] - [tdb_job_board_form] / Include search and list</h4> \n"
+"            <p>Parameters: \n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>searchHidden: set to true to hide the search form on the result page\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply] - [tdb_job_board_apply] / Apply for candidate</h4> \n"
+"            <p>Parameters:\n"
+"                <br/>redirect-link:  redirect to a different page after submitting the registration form \n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_last_job] - [tdb_job_board_last_job] / Widget who shown latest published jobs</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_category] - [tdb_job_board_category] / Widget who shown some specific jobs on category from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_tag] - [tdb_job_board_tag] / Widget who shown some specific jobs on tag from Tamago-db</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>tag: tag ID\n"
+"                <br/>title: widget title\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[tdb_search_form] / Search form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[tdb_list_form] / List form</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>jobLanguage: filter on the language of the job\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>featured: true or false to add featured job.\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>urllist: pages you need to redirect to go to the detail\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_featured] - [tdb_job_board_featured] / List featured jobs from a given Company ID</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>company: ID of the company jobs will be listed.\n"
+"                <br/>url: add this parameter if you use this shortcode on another page than the main job list page. The URL should be the URL of the job list page.\n"
+"                <br/>api: if you set-up multiple api link on admin panel, you can give the number of the api you want to use(by default it will be the first one)\n"
+"            </p>\n"
+"            <h4>[jobsearch_apply_btn] - [tdb_job_board_apply_btn] / Create a button who redirect to the apply pages and get the current page title</h4>\n"
+"            <p>Parameters:\n"
+"                <br/>url: add this parameter to go to the apply/register page\n"
+"            </p>\n"
+"            <h4>[jobsearch_detail] - [tdb_jb_detail] / Job detail pages</h4>\n"
+"            "
+msgstr ""
+
+#: helper/translation.php:1225
+msgid "Design"
+msgstr ""
+
+#: helper/translation.php:1227
+msgid "Detail"
+msgstr ""
+
+#: helper/translation.php:1229
+#: helper/translation.php:1277
+msgid "Widget"
+msgstr ""
+
+#: helper/translation.php:1232
+msgid "Tag group"
+msgstr ""
+
+#: helper/translation.php:1233
+msgid "Tag job title"
+msgstr ""
+
+#: helper/translation.php:1234
+msgid "Tags"
+msgstr ""
+
+#: helper/translation.php:1235
+msgid "TDB"
+msgstr ""
+
+#: helper/translation.php:1236
+msgid "TDB Job board"
+msgstr ""
+
+#: helper/translation.php:1237
+msgid "Template"
+msgstr ""
+
+#: helper/translation.php:1238
+msgid "Enable application for confirmation email"
+msgstr ""
+
+#: helper/translation.php:1239
+msgid "Template applicant"
+msgstr ""
+
+#: helper/translation.php:1240
+msgid "Template to be used"
+msgstr ""
+
+#: helper/translation.php:1241
+msgid "Thank you for your application. Your application has been sent."
+msgstr ""
+
+#: helper/translation.php:1242
+msgid "Thank you. Your attachment has been sent."
+msgstr ""
+
+#: helper/translation.php:1243
+msgid "TOEIC"
+msgstr ""
+
+#: helper/translation.php:1244
+msgid "TOEFL"
+msgstr ""
+
+#: helper/translation.php:1245
+msgid "Title"
+msgstr ""
+
+#: helper/translation.php:1246
+msgid "Type"
+msgstr ""
+
+#: helper/translation.php:1247
+msgid "Type of Source"
+msgstr ""
+
+#: helper/translation.php:1248
+msgid "Employement type detail"
+msgstr ""
+
+#: helper/translation.php:1249
+msgid "Email type"
+msgstr ""
+
+#: helper/translation.php:1252
+msgid "Url (personal website)"
+msgstr ""
+
+#: helper/translation.php:1253
+msgid "redirect Url to apply form"
+msgstr ""
+
+#: helper/translation.php:1254
+msgid "Update API"
+msgstr ""
+
+#: helper/translation.php:1255
+msgid "Upload image"
+msgstr ""
+
+#: helper/translation.php:1256
+msgid "Update api"
+msgstr ""
+
+#: helper/translation.php:1257
+msgid "Update translation"
+msgstr ""
+
+#: helper/translation.php:1258
+msgid "Use one basis"
+msgstr ""
+
+#: helper/translation.php:1259
+msgid "Use one currency"
+msgstr ""
+
+#: helper/translation.php:1260
+msgid "Upload logo for social sharing"
+msgstr ""
+
+#: helper/translation.php:1263
+msgid "Visas"
+msgstr ""
+
+#: helper/translation.php:1264
+msgid "Country of issue"
+msgstr ""
+
+#: helper/translation.php:1265
+msgid "Visa type"
+msgstr ""
+
+#: helper/translation.php:1266
+msgid "Video"
+msgstr ""
+
+#: helper/translation.php:1267
+msgid "For templates using video"
+msgstr ""
+
+#: helper/translation.php:1268
+msgid "Show the video"
+msgstr ""
+
+#: helper/translation.php:1270
+msgid "Max wage amount"
+msgstr ""
+
+#: helper/translation.php:1271
+msgid "Wage amount"
+msgstr ""
+
+#: helper/translation.php:1272
+msgid "Wage basis"
+msgstr ""
+
+#: helper/translation.php:1273
+msgid "Max wage basis"
+msgstr ""
+
+#: helper/translation.php:1274
+msgid "Wage currency"
+msgstr ""
+
+#: helper/translation.php:1275
+msgid "Max wage currency"
+msgstr ""
+
+#: helper/translation.php:1276
+msgid "Wage detail"
+msgstr ""
+
+#: helper/translation.php:1278
+msgid "Widget : Maximum date to show published jobs"
+msgstr ""
+
+#: helper/translation.php:1279
+msgid "Widget : Category to filter"
+msgstr ""
+
+#: helper/translation.php:1280
+msgid "Wage negotiable"
+msgstr ""
+
+#: helper/translation.php:1281
+msgid "wordpress ID"
+msgstr ""
+
+#: helper/translation.php:1282
+msgid "Working hours"
+msgstr ""
+
+#: helper/translation.php:1283
+msgid "work mobile"
+msgstr ""
+
+#: helper/translation.php:1284
+msgid "work"
+msgstr ""
+
+#: helper/translation.php:1285
+msgid "work other"
+msgstr ""
+
+#: helper/translation.php:1287
+msgid "Years"
+msgstr ""
+
+#: helper/translation.php:1288
+msgid "Your application has been sent. "
+msgstr ""
+
+#: helper/translation.php:1289
+msgid "Error "
+msgstr ""
